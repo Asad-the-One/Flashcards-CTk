@@ -15,5 +15,7 @@ This app is built with CustomTkinter. "Flashcards" are stored in JSON files. The
 ## How parts were implemented
 ### Test
 Each word is given a score, minimum 0. If greater than 0, a random integer is selected between 0 and the score. If this integer is 0, the word is displayed to the user.
+
 Getting the term correct increases this score by 1, and getting it wrong decreases it by 1 to a minimum to 0.
+
 The purpose of this is to encourage the user to practice more on the terms they are weaker with.
