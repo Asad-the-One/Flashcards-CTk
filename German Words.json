@@ -1,0 +1,6766 @@
+{
+    "ähnlich": {
+        "t": "similar",
+        "score": 0
+    },
+    "anders": {
+        "t": "different(ly)",
+        "score": 0
+    },
+    "Gegenteil das": {
+        "t": "opposite",
+        "score": 0
+    },
+    "hoch; höher; höchst": {
+        "t": "high; higher; highest",
+        "score": 0
+    },
+    "im Großen und Ganzen": {
+        "t": "by and large",
+        "score": 0
+    },
+    "so ... wie": {
+        "t": "as ... as",
+        "score": 0
+    },
+    "so viel(e) ... wie": {
+        "t": "as much/many ... as",
+        "score": 0
+    },
+    "Unterschied der": {
+        "t": "difference",
+        "score": 0
+    },
+    "unterschiedlich": {
+        "t": "different",
+        "score": 0
+    },
+    "vergleichen": {
+        "t": "to compare",
+        "score": 0
+    },
+    "Vergleich der": {
+        "t": "comparison",
+        "score": 0
+    },
+    "verschieden": {
+        "t": "different",
+        "score": 0
+    },
+    "viel; mehr; am meisten": {
+        "t": "much; more; most",
+        "score": 0
+    },
+    "wenigstens": {
+        "t": "at least",
+        "score": 0
+    },
+    "als": {
+        "t": "when",
+        "score": 0
+    },
+    "als ob": {
+        "t": "as if",
+        "score": 0
+    },
+    "bevor": {
+        "t": "before",
+        "score": 0
+    },
+    "bis": {
+        "t": "until, to",
+        "score": 0
+    },
+    "damit": {
+        "t": "so that, in order that",
+        "score": 0
+    },
+    "denn": {
+        "t": "as, since",
+        "score": 0
+    },
+    "entweder ... oder ...": {
+        "t": "either ... or ...",
+        "score": 0
+    },
+    "nachdem": {
+        "t": "after, afterwards",
+        "score": 0
+    },
+    "nicht nur ... sondern auch": {
+        "t": "not only ... but also",
+        "score": 0
+    },
+    "ob": {
+        "t": "whether",
+        "score": 0
+    },
+    "obwohl": {
+        "t": "although",
+        "score": 0
+    },
+    "seitdem": {
+        "t": "since",
+        "score": 0
+    },
+    "sodass (so...dass)": {
+        "t": "so ... that",
+        "score": 0
+    },
+    "sowohl ... als auch ...": {
+        "t": "both ... and...",
+        "score": 0
+    },
+    "um ... zu": {
+        "t": "(in order) to",
+        "score": 0
+    },
+    "weder ... noch": {
+        "t": "neither ... nor",
+        "score": 0
+    },
+    "abgesehen davon": {
+        "t": "apart from this",
+        "score": 0
+    },
+    "angenommen dass": {
+        "t": "assuming that",
+        "score": 0
+    },
+    "außer": {
+        "t": "besides, apart from, except",
+        "score": 0
+    },
+    "außerdem": {
+        "t": "besides, furthermore",
+        "score": 0
+    },
+    "danach": {
+        "t": "afterwards",
+        "score": 0
+    },
+    "das heißt (d.h.)": {
+        "t": "that is (ie)",
+        "score": 0
+    },
+    "dennoch": {
+        "t": "nevertheless",
+        "score": 0
+    },
+    "deshalb": {
+        "t": "therefore, because of that",
+        "score": 0
+    },
+    "deswegen": {
+        "t": "therefore, because of that",
+        "score": 0
+    },
+    "doch": {
+        "t": "after all, on the contrary, yes",
+        "score": 0
+    },
+    "drittens": {
+        "t": "thirdly",
+        "score": 0
+    },
+    "eigentlich": {
+        "t": "actually, really",
+        "score": 0
+    },
+    "erstens": {
+        "t": "firstly",
+        "score": 0
+    },
+    "jedoch": {
+        "t": "however",
+        "score": 0
+    },
+    "leider": {
+        "t": "unfortunately",
+        "score": 0
+    },
+    "natürlich": {
+        "t": "of course, naturally",
+        "score": 0
+    },
+    "ohne Zweifel": {
+        "t": "without a doubt",
+        "score": 0
+    },
+    "schließlich": {
+        "t": "eventually, in the end, finally",
+        "score": 0
+    },
+    "sonst": {
+        "t": "otherwise, or else",
+        "score": 0
+    },
+    "sowieso": {
+        "t": "anyway, anyhow, in any case",
+        "score": 0
+    },
+    "trotzdem": {
+        "t": "nevertheless",
+        "score": 0
+    },
+    "vorausgesetzt dass": {
+        "t": "provided that",
+        "score": 0
+    },
+    "zuerst": {
+        "t": "(at) first",
+        "score": 0
+    },
+    "zufällig": {
+        "t": "by chance",
+        "score": 0
+    },
+    "zweitens": {
+        "t": "secondly",
+        "score": 0
+    },
+    "ab": {
+        "t": "from",
+        "score": 0
+    },
+    "an": {
+        "t": "at, to, on, close by",
+        "score": 0
+    },
+    "auf": {
+        "t": "on, upon, onto, on top of",
+        "score": 0
+    },
+    "aus": {
+        "t": "from, out of",
+        "score": 0
+    },
+    "bei": {
+        "t": "near, at",
+        "score": 0
+    },
+    "durch": {
+        "t": "through",
+        "score": 0
+    },
+    "entlang": {
+        "t": "along",
+        "score": 0
+    },
+    "gegen": {
+        "t": "against, at about, around",
+        "score": 0
+    },
+    "gegenüber": {
+        "t": "opposite",
+        "score": 0
+    },
+    "hinter": {
+        "t": "behind",
+        "score": 0
+    },
+    "nach": {
+        "t": "after, to, according to",
+        "score": 0
+    },
+    "neben": {
+        "t": "next to",
+        "score": 0
+    },
+    "ohne": {
+        "t": "without",
+        "score": 0
+    },
+    "über": {
+        "t": "over, above",
+        "score": 0
+    },
+    "um": {
+        "t": "around, at",
+        "score": 0
+    },
+    "unter": {
+        "t": "under, below",
+        "score": 0
+    },
+    "von": {
+        "t": "from, by, of",
+        "score": 0
+    },
+    "vor": {
+        "t": "in front of, before, ago",
+        "score": 0
+    },
+    "vorbei": {
+        "t": "over, past, by",
+        "score": 0
+    },
+    "während": {
+        "t": "during",
+        "score": 0
+    },
+    "wegen": {
+        "t": "because of",
+        "score": 0
+    },
+    "zu": {
+        "t": "to, at, for",
+        "score": 0
+    },
+    "zwischen": {
+        "t": "between",
+        "score": 0
+    },
+    "gar nicht": {
+        "t": "not at all",
+        "score": 0
+    },
+    "nicht einmal": {
+        "t": "not even",
+        "score": 0
+    },
+    "nicht mehr": {
+        "t": "no longer",
+        "score": 0
+    },
+    "nichts": {
+        "t": "nothing",
+        "score": 0
+    },
+    "nie": {
+        "t": "never",
+        "score": 0
+    },
+    "niemals": {
+        "t": "never",
+        "score": 0
+    },
+    "niemand": {
+        "t": "nobody",
+        "score": 0
+    },
+    "nirgend...": {
+        "t": "no...",
+        "score": 0
+    },
+    "noch nicht": {
+        "t": "not yet, still not",
+        "score": 0
+    },
+    "überhaupt nicht": {
+        "t": "not at all",
+        "score": 0
+    },
+    "Buchstabe der": {
+        "t": "letter",
+        "score": 0
+    },
+    "buchstabieren": {
+        "t": "to spell",
+        "score": 0
+    },
+    "Dutzend das": {
+        "t": "dozen",
+        "score": 0
+    },
+    "Nummer die": {
+        "t": "number",
+        "score": 0
+    },
+    "Paar das": {
+        "t": "pair",
+        "score": 0
+    },
+    "Zahl die": {
+        "t": "number, figure, digit",
+        "score": 0
+    },
+    "Bargeld das": {
+        "t": "cash",
+        "score": 0
+    },
+    "ein 1/2/5 - Euro-Stück": {
+        "t": "a 1/2/5 Euro coin",
+        "score": 0
+    },
+    "ein 10/20/50 - Euro-Schein": {
+        "t": "a 10/20/50 Euro note",
+        "score": 0
+    },
+    "Geldschein der": {
+        "t": "note",
+        "score": 0
+    },
+    "Geldstück das": {
+        "t": "coin",
+        "score": 0
+    },
+    "Kleingeld das": {
+        "t": "small change",
+        "score": 0
+    },
+    "Münze die": {
+        "t": "coin",
+        "score": 0
+    },
+    "Taschengeld das": {
+        "t": "pocket money",
+        "score": 0
+    },
+    "wechseln": {
+        "t": "to change",
+        "score": 0
+    },
+    "Wann?": {
+        "t": "When?",
+        "score": 0
+    },
+    "Warum?": {
+        "t": "Why?",
+        "score": 0
+    },
+    "Was für...?": {
+        "t": "What sort/type of...?",
+        "score": 0
+    },
+    "Was?": {
+        "t": "What?",
+        "score": 0
+    },
+    "Welcher/Welche/Welches?": {
+        "t": "Which?",
+        "score": 0
+    },
+    "Wer?": {
+        "t": "Who?",
+        "score": 0
+    },
+    "Wie lang(e)?": {
+        "t": "How long?",
+        "score": 0
+    },
+    "Wie viel(e)?": {
+        "t": "How much/many?",
+        "score": 0
+    },
+    "Wie?": {
+        "t": "How?",
+        "score": 0
+    },
+    "Wieso?": {
+        "t": "Why? How come ...?",
+        "score": 0
+    },
+    "Wo?": {
+        "t": "Where?",
+        "score": 0
+    },
+    "Woher?": {
+        "t": "Where from?",
+        "score": 0
+    },
+    "Wohin?": {
+        "t": "Where to?",
+        "score": 0
+    },
+    "Womit?": {
+        "t": "What with?",
+        "score": 0
+    },
+    "Alles Gute!": {
+        "t": "All the best",
+        "score": 0
+    },
+    "Bis bald!": {
+        "t": "See you later",
+        "score": 0
+    },
+    "Entschuldigung!": {
+        "t": "Excuse me/Sorry",
+        "score": 0
+    },
+    "Frohe Weihnachten!": {
+        "t": "Merry Christmas",
+        "score": 0
+    },
+    "Gern geschehen!": {
+        "t": "Don't mention it",
+        "score": 0
+    },
+    "Herzlich willkommen!": {
+        "t": "Welcome",
+        "score": 0
+    },
+    "Herzlichen Glückwunsch!": {
+        "t": "Congratulations",
+        "score": 0
+    },
+    "Prost!": {
+        "t": "Cheers",
+        "score": 0
+    },
+    "Schöne Ferien!": {
+        "t": "Have a good/nice holiday",
+        "score": 0
+    },
+    "Viel Glück!": {
+        "t": "Good luck",
+        "score": 0
+    },
+    "Ahnung die": {
+        "t": "idea, suspicion",
+        "score": 0
+    },
+    "amüsant": {
+        "t": "amusing, funny",
+        "score": 0
+    },
+    "angenehm": {
+        "t": "pleasant, agreeable",
+        "score": 0
+    },
+    "Angst haben": {
+        "t": "to be afraid/scared",
+        "score": 0
+    },
+    "ängstlich": {
+        "t": "anxious, apprehensive",
+        "score": 0
+    },
+    "ausgezeichnet": {
+        "t": "excellent",
+        "score": 0
+    },
+    "bequem": {
+        "t": "comfortable",
+        "score": 0
+    },
+    "bestimmt": {
+        "t": "definite(ly)/certain(ly)",
+        "score": 0
+    },
+    "billig": {
+        "t": "cheap",
+        "score": 0
+    },
+    "blöd": {
+        "t": "stupid",
+        "score": 0
+    },
+    "Blödsinn der": {
+        "t": "nonsense, rubbish",
+        "score": 0
+    },
+    "böse": {
+        "t": "naughty, evil, angry",
+        "score": 0
+    },
+    "dafür (sein)": {
+        "t": "(to be) in favour of something",
+        "score": 0
+    },
+    "dagegen (sein)": {
+        "t": "(to be) against/opposed to something",
+        "score": 0
+    },
+    "das ist mir egal": {
+        "t": "it doesn't matter, it's all the same to me",
+        "score": 0
+    },
+    "denken": {
+        "t": "to think",
+        "score": 0
+    },
+    "deprimiert": {
+        "t": "depressed",
+        "score": 0
+    },
+    "die Nase voll haben": {
+        "t": "to be fed up with something",
+        "score": 0
+    },
+    "doof": {
+        "t": "stupid",
+        "score": 0
+    },
+    "eindrucksvoll": {
+        "t": "impressive",
+        "score": 0
+    },
+    "einfach": {
+        "t": "simple, simply, easy",
+        "score": 0
+    },
+    "entsetzlich": {
+        "t": "terrible, awful, appalling",
+        "score": 0
+    },
+    "es/das stimmt (nicht)": {
+        "t": "that's (not) right/correct",
+        "score": 0
+    },
+    "es gefällt mir": {
+        "t": "I like it (it pleases me)",
+        "score": 0
+    },
+    "es kommt darauf an, ob ...": {
+        "t": "it depends on ..., whether ...",
+        "score": 0
+    },
+    "es satt haben": {
+        "t": "to be fed up with something",
+        "score": 0
+    },
+    "froh": {
+        "t": "happy, glad, pleased",
+        "score": 0
+    },
+    "furchtbar": {
+        "t": "terrible, dreadful, awful",
+        "score": 0
+    },
+    "gefallen": {
+        "t": "to like, to please",
+        "score": 0
+    },
+    "gemütlich": {
+        "t": "cosy, comfortable",
+        "score": 0
+    },
+    "genießen": {
+        "t": "to enjoy",
+        "score": 0
+    },
+    "glauben": {
+        "t": "to believe",
+        "score": 0
+    },
+    "hassen": {
+        "t": "to hate",
+        "score": 0
+    },
+    "herrlich": {
+        "t": "marvellous, magnificent, glorious",
+        "score": 0
+    },
+    "hervorragend": {
+        "t": "excellent, outstanding",
+        "score": 0
+    },
+    "interessieren (sich für)": {
+        "t": "to be interested in",
+        "score": 0
+    },
+    "keine Ahnung haben": {
+        "t": "to have no idea/no clue",
+        "score": 0
+    },
+    "klasse": {
+        "t": "brilliant, great",
+        "score": 0
+    },
+    "kompliziert": {
+        "t": "complicated",
+        "score": 0
+    },
+    "langweilen (sich)": {
+        "t": "to be bored",
+        "score": 0
+    },
+    "lieb": {
+        "t": "kind, lovely, dear",
+        "score": 0
+    },
+    "lieben": {
+        "t": "to love",
+        "score": 0
+    },
+    "lustig": {
+        "t": "funny",
+        "score": 0
+    },
+    "meinen": {
+        "t": "to think",
+        "score": 0
+    },
+    "Meinung die": {
+        "t": "opinion",
+        "score": 0
+    },
+    "mies": {
+        "t": "rotten, lousy",
+        "score": 0
+    },
+    "möglich": {
+        "t": "possible",
+        "score": 0
+    },
+    "mühelos": {
+        "t": "effortless",
+        "score": 0
+    },
+    "mühsam": {
+        "t": "arduous, laborious, with difficulty",
+        "score": 0
+    },
+    "nützlich": {
+        "t": "useful",
+        "score": 0
+    },
+    "nutzlos": {
+        "t": "useless",
+        "score": 0
+    },
+    "prima": {
+        "t": "great, fantastic",
+        "score": 0
+    },
+    "sauer sein": {
+        "t": "to be cross, annoyed",
+        "score": 0
+    },
+    "schade": {
+        "t": "it's a shame/pity",
+        "score": 0
+    },
+    "schrecklich": {
+        "t": "terrible, horrible",
+        "score": 0
+    },
+    "schwierig": {
+        "t": "difficult",
+        "score": 0
+    },
+    "sensibel": {
+        "t": "sensitive",
+        "score": 0
+    },
+    "sicher": {
+        "t": "sure, safe",
+        "score": 0
+    },
+    "sogar": {
+        "t": "even",
+        "score": 0
+    },
+    "Spitze!": {
+        "t": "great",
+        "score": 0
+    },
+    "teuer": {
+        "t": "expensive, dear",
+        "score": 0
+    },
+    "typisch": {
+        "t": "typical(ly)",
+        "score": 0
+    },
+    "überrascht": {
+        "t": "surprised",
+        "score": 0
+    },
+    "unglaublich": {
+        "t": "unbelievable",
+        "score": 0
+    },
+    "unmöglich": {
+        "t": "impossible",
+        "score": 0
+    },
+    "unsicher": {
+        "t": "unsure",
+        "score": 0
+    },
+    "vielleicht": {
+        "t": "perhaps",
+        "score": 0
+    },
+    "völlig": {
+        "t": "completely",
+        "score": 0
+    },
+    "vorziehen": {
+        "t": "to prefer",
+        "score": 0
+    },
+    "wahrscheinlich": {
+        "t": "probably",
+        "score": 0
+    },
+    "wichtig": {
+        "t": "important",
+        "score": 0
+    },
+    "wirklich": {
+        "t": "real(ly)",
+        "score": 0
+    },
+    "wunderbar": {
+        "t": "wonderful",
+        "score": 0
+    },
+    "wunderschön": {
+        "t": "gorgeous, very beautiful",
+        "score": 0
+    },
+    "wünschen (sich)": {
+        "t": "to wish",
+        "score": 0
+    },
+    "zufrieden": {
+        "t": "content, happy",
+        "score": 0
+    },
+    "zustimmen": {
+        "t": "to agree",
+        "score": 0
+    },
+    "Jahreszeit die": {
+        "t": "season",
+        "score": 0
+    },
+    "Jahr das": {
+        "t": "year",
+        "score": 0
+    },
+    "Monat der": {
+        "t": "month",
+        "score": 0
+    },
+    "genau": {
+        "t": "exactly",
+        "score": 0
+    },
+    "halb": {
+        "t": "half",
+        "score": 0
+    },
+    "Mittag der": {
+        "t": "midday",
+        "score": 0
+    },
+    "Mitternacht die": {
+        "t": "midnight",
+        "score": 0
+    },
+    "nachgehen": {
+        "t": "to be slow",
+        "score": 0
+    },
+    "pünktlich": {
+        "t": "punctual, on time",
+        "score": 0
+    },
+    "spät": {
+        "t": "late",
+        "score": 0
+    },
+    "Uhr die": {
+        "t": "clock, watch, o'clock",
+        "score": 0
+    },
+    "Um wie viel Uhr?": {
+        "t": "at what time, when?",
+        "score": 0
+    },
+    "Viertel das": {
+        "t": "quarter",
+        "score": 0
+    },
+    "vorgehen": {
+        "t": "to be fast",
+        "score": 0
+    },
+    "Wie spät ist es?": {
+        "t": "What time is it?",
+        "score": 0
+    },
+    "Wie viel Uhr ist es?": {
+        "t": "What time is it?",
+        "score": 0
+    },
+    "Zeit die": {
+        "t": "time",
+        "score": 0
+    },
+    "ab und zu": {
+        "t": "now and again",
+        "score": 0
+    },
+    "Abend der": {
+        "t": "evening",
+        "score": 0
+    },
+    "abends": {
+        "t": "in the evenings",
+        "score": 0
+    },
+    "Anfang der": {
+        "t": "beginning, start",
+        "score": 0
+    },
+    "Augenblick der": {
+        "t": "moment, instant",
+        "score": 0
+    },
+    "aus sein": {
+        "t": "to be over, finished",
+        "score": 0
+    },
+    "bald": {
+        "t": "soon",
+        "score": 0
+    },
+    "damals": {
+        "t": "then, in those days",
+        "score": 0
+    },
+    "Datum das": {
+        "t": "date",
+        "score": 0
+    },
+    "ehemalig": {
+        "t": "former",
+        "score": 0
+    },
+    "einmal": {
+        "t": "once",
+        "score": 0
+    },
+    "endlich": {
+        "t": "finally",
+        "score": 0
+    },
+    "erst": {
+        "t": "(at) first, only",
+        "score": 0
+    },
+    "fast": {
+        "t": "almost, nearly",
+        "score": 0
+    },
+    "früh": {
+        "t": "early",
+        "score": 0
+    },
+    "Gegenwart die": {
+        "t": "present (time, tense)",
+        "score": 0
+    },
+    "gerade": {
+        "t": "just",
+        "score": 0
+    },
+    "gestern": {
+        "t": "yesterday",
+        "score": 0
+    },
+    "gewöhnlich": {
+        "t": "usually, normally",
+        "score": 0
+    },
+    "gleich": {
+        "t": "immediately, in a minute",
+        "score": 0
+    },
+    "heute": {
+        "t": "today",
+        "score": 0
+    },
+    "heutzutage": {
+        "t": "nowadays, these days",
+        "score": 0
+    },
+    "im Voraus": {
+        "t": "in advance",
+        "score": 0
+    },
+    "immer": {
+        "t": "always",
+        "score": 0
+    },
+    "immer wieder": {
+        "t": "again and again",
+        "score": 0
+    },
+    "inzwischen": {
+        "t": "in the meantime",
+        "score": 0
+    },
+    "Jahrhundert das": {
+        "t": "century",
+        "score": 0
+    },
+    "jetzt": {
+        "t": "now",
+        "score": 0
+    },
+    "kürzlich": {
+        "t": "recently, lately",
+        "score": 0
+    },
+    "langsam": {
+        "t": "slow(ly)",
+        "score": 0
+    },
+    "letzter/letzte/letztes": {
+        "t": "last",
+        "score": 0
+    },
+    "Mal das": {
+        "t": "time",
+        "score": 0
+    },
+    "~mal": {
+        "t": "~ times",
+        "score": 0
+    },
+    "manchmal": {
+        "t": "sometimes",
+        "score": 0
+    },
+    "montags": {
+        "t": "on Mondays",
+        "score": 0
+    },
+    "morgen": {
+        "t": "tomorrow",
+        "score": 0
+    },
+    "Morgen der": {
+        "t": "morning",
+        "score": 0
+    },
+    "morgen früh": {
+        "t": "tomorrow morning",
+        "score": 0
+    },
+    "morgens": {
+        "t": "in the mornings, every morning",
+        "score": 0
+    },
+    "nachher": {
+        "t": "afterwards",
+        "score": 0
+    },
+    "Nachmittag der": {
+        "t": "afternoon",
+        "score": 0
+    },
+    "nächster/nächste/nächstes": {
+        "t": "next",
+        "score": 0
+    },
+    "Nacht die": {
+        "t": "night",
+        "score": 0
+    },
+    "nachts": {
+        "t": "at night",
+        "score": 0
+    },
+    "neulich": {
+        "t": "recently, the other day",
+        "score": 0
+    },
+    "noch einmal": {
+        "t": "once again, once more",
+        "score": 0
+    },
+    "normalerweise": {
+        "t": "normally, usually",
+        "score": 0
+    },
+    "nun": {
+        "t": "now",
+        "score": 0
+    },
+    "plötzlich": {
+        "t": "suddenly",
+        "score": 0
+    },
+    "regelmäßig": {
+        "t": "regular",
+        "score": 0
+    },
+    "schnell": {
+        "t": "quick(ly)",
+        "score": 0
+    },
+    "schon": {
+        "t": "already",
+        "score": 0
+    },
+    "seit": {
+        "t": "since, for (length of time)",
+        "score": 0
+    },
+    "selten": {
+        "t": "seldom, rarely",
+        "score": 0
+    },
+    "sofort": {
+        "t": "immediately, straight away",
+        "score": 0
+    },
+    "täglich": {
+        "t": "daily",
+        "score": 0
+    },
+    "übermorgen": {
+        "t": "the day after tomorrow",
+        "score": 0
+    },
+    "Vergangenheit die": {
+        "t": "past (time, tense)",
+        "score": 0
+    },
+    "(bis) vor kurzem": {
+        "t": "(until) recently",
+        "score": 0
+    },
+    "vorgestern": {
+        "t": "the day before yesterday",
+        "score": 0
+    },
+    "vorher": {
+        "t": "before(hand)",
+        "score": 0
+    },
+    "Vormittag der": {
+        "t": "morning",
+        "score": 0
+    },
+    "Zeitpunkt der": {
+        "t": "point in time",
+        "score": 0
+    },
+    "zu Ende sein": {
+        "t": "to come to an end, to finish",
+        "score": 0
+    },
+    "Zukunft die": {
+        "t": "future (time, tense)",
+        "score": 0
+    },
+    "außen": {
+        "t": "outside",
+        "score": 0
+    },
+    "außerhalb": {
+        "t": "outside of",
+        "score": 0
+    },
+    "da": {
+        "t": "here, there",
+        "score": 0
+    },
+    "draußen": {
+        "t": "outside, outdoors",
+        "score": 0
+    },
+    "drinnen": {
+        "t": "inside, indoors",
+        "score": 0
+    },
+    "drüben": {
+        "t": "over there",
+        "score": 0
+    },
+    "entfernt": {
+        "t": "distant, (far) away",
+        "score": 0
+    },
+    "geradeaus": {
+        "t": "straight ahead",
+        "score": 0
+    },
+    "her~": {
+        "t": "from ~ (towards the speaker)",
+        "score": 0
+    },
+    "hin und her": {
+        "t": "to and fro",
+        "score": 0
+    },
+    "hin und zurück": {
+        "t": "there and back, return (ticket)",
+        "score": 0
+    },
+    "hin~": {
+        "t": "away ~ (from the speaker)",
+        "score": 0
+    },
+    "in der Nähe von": {
+        "t": "nearby, close to",
+        "score": 0
+    },
+    "irgendwo": {
+        "t": "somewhere",
+        "score": 0
+    },
+    "liegen": {
+        "t": "to lie, to be situated (in)",
+        "score": 0
+    },
+    "Meile die": {
+        "t": "mile",
+        "score": 0
+    },
+    "mitten in": {
+        "t": "in the middle of",
+        "score": 0
+    },
+    "nah": {
+        "t": "near",
+        "score": 0
+    },
+    "nirgendwo": {
+        "t": "nowhere",
+        "score": 0
+    },
+    "oben": {
+        "t": "above, up",
+        "score": 0
+    },
+    "Ort der": {
+        "t": "place",
+        "score": 0
+    },
+    "überall": {
+        "t": "everywhere",
+        "score": 0
+    },
+    "unten": {
+        "t": "at the bottom, below, down",
+        "score": 0
+    },
+    "vorwärts": {
+        "t": "forwards",
+        "score": 0
+    },
+    "weit": {
+        "t": "wide, far",
+        "score": 0
+    },
+    "zurück": {
+        "t": "back",
+        "score": 0
+    },
+    "alle (-r, -s)": {
+        "t": "all, all the",
+        "score": 0
+    },
+    "alle sein": {
+        "t": "to be all gone, to have run out (of)",
+        "score": 0
+    },
+    "alles": {
+        "t": "everything",
+        "score": 0
+    },
+    "anderer/andere/anderes": {
+        "t": "other, different",
+        "score": 0
+    },
+    "beide": {
+        "t": "both",
+        "score": 1
+    },
+    "breit": {
+        "t": "wide, broad",
+        "score": 0
+    },
+    "dick": {
+        "t": "thick, fat",
+        "score": 0
+    },
+    "Ding das": {
+        "t": "thing",
+        "score": 0
+    },
+    "Dose die": {
+        "t": "can, tin",
+        "score": 0
+    },
+    "dünn": {
+        "t": "thin",
+        "score": 0
+    },
+    "ein bisschen": {
+        "t": "a little",
+        "score": 0
+    },
+    "ein paar": {
+        "t": "a few, a couple",
+        "score": 0
+    },
+    "eine Menge": {
+        "t": "a lot of, lots",
+        "score": 0
+    },
+    "einige": {
+        "t": "some, a few",
+        "score": 0
+    },
+    "einzeln": {
+        "t": "single",
+        "score": 0
+    },
+    "etwa": {
+        "t": "about, roughly",
+        "score": 0
+    },
+    "Flasche die": {
+        "t": "bottle",
+        "score": 0
+    },
+    "ganz": {
+        "t": "whole, complete, quite",
+        "score": 0
+    },
+    "genug": {
+        "t": "enough",
+        "score": 0
+    },
+    "gewaltig": {
+        "t": "enormously",
+        "score": 0
+    },
+    "Größe die": {
+        "t": "size",
+        "score": 0
+    },
+    "irgend...": {
+        "t": "some...",
+        "score": 0
+    },
+    "Karton der": {
+        "t": "cardboard box",
+        "score": 0
+    },
+    "Kasten der": {
+        "t": "box, case, crate",
+        "score": 0
+    },
+    "kaum": {
+        "t": "hardly",
+        "score": 0
+    },
+    "leer": {
+        "t": "empty",
+        "score": 0
+    },
+    "leicht": {
+        "t": "light",
+        "score": 0
+    },
+    "Maß das": {
+        "t": "measure",
+        "score": 0
+    },
+    "mehrere": {
+        "t": "several",
+        "score": 0
+    },
+    "messen": {
+        "t": "to measure",
+        "score": 0
+    },
+    "mindestens": {
+        "t": "at least",
+        "score": 0
+    },
+    "mittelgroß": {
+        "t": "medium-sized",
+        "score": 0
+    },
+    "noch": {
+        "t": "still",
+        "score": 0
+    },
+    "Päckchen das": {
+        "t": "small parcel",
+        "score": 0
+    },
+    "Packung die": {
+        "t": "packet, pack",
+        "score": 0
+    },
+    "Paket das": {
+        "t": "parcel",
+        "score": 0
+    },
+    "Pfund das": {
+        "t": "pound",
+        "score": 0
+    },
+    "pro": {
+        "t": "per",
+        "score": 0
+    },
+    "Schachtel die": {
+        "t": "box, packet",
+        "score": 0
+    },
+    "Scheibe die": {
+        "t": "slice",
+        "score": 0
+    },
+    "schwer": {
+        "t": "heavy",
+        "score": 0
+    },
+    "Stück das": {
+        "t": "piece",
+        "score": 0
+    },
+    "Tüte die": {
+        "t": "bag",
+        "score": 0
+    },
+    "ungefähr": {
+        "t": "about",
+        "score": 0
+    },
+    "voll": {
+        "t": "full",
+        "score": 0
+    },
+    "wenig": {
+        "t": "little, not much",
+        "score": 0
+    },
+    "wiegen": {
+        "t": "to weigh",
+        "score": 0
+    },
+    "Kreis der": {
+        "t": "circle",
+        "score": 0
+    },
+    "rund": {
+        "t": "round",
+        "score": 0
+    },
+    "viereckig": {
+        "t": "square",
+        "score": 0
+    },
+    "bedeckt": {
+        "t": "overcast, cloudy",
+        "score": 0
+    },
+    "Blitz der": {
+        "t": "lightning",
+        "score": 0
+    },
+    "Donner der": {
+        "t": "thunder",
+        "score": 0
+    },
+    "es blitzt": {
+        "t": "it's lightning",
+        "score": 0
+    },
+    "es donnert": {
+        "t": "it's thundering",
+        "score": 0
+    },
+    "es hagelt": {
+        "t": "it's hailing",
+        "score": 0
+    },
+    "feucht": {
+        "t": "damp",
+        "score": 0
+    },
+    "frieren": {
+        "t": "to freeze",
+        "score": 0
+    },
+    "frisch": {
+        "t": "fresh",
+        "score": 0
+    },
+    "Gewitter das": {
+        "t": "thunderstorm",
+        "score": 0
+    },
+    "Grad der": {
+        "t": "degree",
+        "score": 0
+    },
+    "Hagel der": {
+        "t": "hail",
+        "score": 0
+    },
+    "heftig": {
+        "t": "heavy, severe",
+        "score": 0
+    },
+    "heiter": {
+        "t": "bright, fine, clear, fair",
+        "score": 0
+    },
+    "Himmel der": {
+        "t": "sky",
+        "score": 0
+    },
+    "Klima das": {
+        "t": "climate",
+        "score": 0
+    },
+    "kühl": {
+        "t": "cool",
+        "score": 0
+    },
+    "Mond der": {
+        "t": "moon",
+        "score": 0
+    },
+    "nass": {
+        "t": "wet",
+        "score": 0
+    },
+    "Nebel der": {
+        "t": "fog",
+        "score": 0
+    },
+    "nebelig": {
+        "t": "foggy",
+        "score": 0
+    },
+    "Niederschlag der": {
+        "t": "precipitation",
+        "score": 0
+    },
+    "Regen der": {
+        "t": "rain",
+        "score": 0
+    },
+    "regnen": {
+        "t": "to rain",
+        "score": 0
+    },
+    "Schatten der": {
+        "t": "shadow",
+        "score": 0
+    },
+    "schattig": {
+        "t": "shady",
+        "score": 0
+    },
+    "Schauer der": {
+        "t": "shower",
+        "score": 0
+    },
+    "scheinen": {
+        "t": "shine",
+        "score": 0
+    },
+    "schneien": {
+        "t": "to snow",
+        "score": 0
+    },
+    "Sturm der": {
+        "t": "storm",
+        "score": 0
+    },
+    "stürmisch": {
+        "t": "stormy",
+        "score": 0
+    },
+    "trocken": {
+        "t": "dry",
+        "score": 0
+    },
+    "Wetterbericht der": {
+        "t": "weather report",
+        "score": 0
+    },
+    "Wettervorhersage die": {
+        "t": "weather forecast",
+        "score": 0
+    },
+    "Wolke die": {
+        "t": "cloud",
+        "score": 0
+    },
+    "wolkig": {
+        "t": "cloudy",
+        "score": 0
+    },
+    "auf sein": {
+        "t": "to be open",
+        "score": 0
+    },
+    "aufmachen": {
+        "t": "to open",
+        "score": 0
+    },
+    "Ausfahrt die": {
+        "t": "exit (motorway)",
+        "score": 0
+    },
+    "Ausgang der": {
+        "t": "exit (building)",
+        "score": 0
+    },
+    "besetzt": {
+        "t": "occupied, engaged",
+        "score": 1
+    },
+    "Einfahrt die": {
+        "t": "entry, entrance",
+        "score": 0
+    },
+    "Eingang der": {
+        "t": "entrance (building)",
+        "score": 0
+    },
+    "Eintritt der": {
+        "t": "admission",
+        "score": 0
+    },
+    "frei": {
+        "t": "free",
+        "score": 0
+    },
+    "geschlossen": {
+        "t": "closed",
+        "score": 0
+    },
+    "offen": {
+        "t": "open",
+        "score": 0
+    },
+    "öffnen": {
+        "t": "to open",
+        "score": 0
+    },
+    "schließen": {
+        "t": "to close",
+        "score": 0
+    },
+    "verboten": {
+        "t": "forbidden",
+        "score": 0
+    },
+    "zu sein": {
+        "t": "to be closed",
+        "score": 0
+    },
+    "zumachen": {
+        "t": "to close",
+        "score": 0
+    },
+    "falsch": {
+        "t": "false, wrong, incorrect",
+        "score": 0
+    },
+    "Fehler der": {
+        "t": "mistake, error",
+        "score": 0
+    },
+    "Recht haben": {
+        "t": "to be right",
+        "score": 0
+    },
+    "richtig": {
+        "t": "right, correct",
+        "score": 0
+    },
+    "Unrecht haben": {
+        "t": "to be wrong",
+        "score": 0
+    },
+    "verbessern": {
+        "t": "to correct, to improve",
+        "score": 0
+    },
+    "Verbesserung die": {
+        "t": "correction, improvement",
+        "score": 0
+    },
+    "Baumwolle die": {
+        "t": "cotton",
+        "score": 0
+    },
+    "bestehen aus": {
+        "t": "to consist of, to be made of/from",
+        "score": 0
+    },
+    "Eisen das": {
+        "t": "iron",
+        "score": 0
+    },
+    "Holz das": {
+        "t": "wood",
+        "score": 0
+    },
+    "Leder das": {
+        "t": "leather",
+        "score": 0
+    },
+    "Pappe die": {
+        "t": "cardboard",
+        "score": 0
+    },
+    "Seide die": {
+        "t": "silk",
+        "score": 0
+    },
+    "Stoff der": {
+        "t": "material",
+        "score": 0
+    },
+    "Wolle die": {
+        "t": "wool",
+        "score": 0
+    },
+    "£ = Pfund das": {
+        "t": "£ = pound sterling",
+        "score": 0
+    },
+    "AG = Arbeitsgruppe, Arbeitsgemeinschaft": {
+        "t": "work group (extra-curricular, school)",
+        "score": 0
+    },
+    "d.h. = das heißt": {
+        "t": "ie = that is",
+        "score": 0
+    },
+    "DB = Deutsche Bahn": {
+        "t": "German Railways",
+        "score": 0
+    },
+    "Dr = Doktor der": {
+        "t": "doctor",
+        "score": 0
+    },
+    "gem. = gemischt": {
+        "t": "mixed",
+        "score": 0
+    },
+    "ICE = Inter-City-Express der": {
+        "t": "fast long-distance train",
+        "score": 0
+    },
+    "inkl. = inklusive": {
+        "t": "included",
+        "score": 0
+    },
+    "LKW = Lastkraftwagen der": {
+        "t": "HGV, lorry",
+        "score": 0
+    },
+    "PLZ = Postleitzahl die": {
+        "t": "postcode",
+        "score": 0
+    },
+    "usw. = und so weiter": {
+        "t": "etc = and so on",
+        "score": 0
+    },
+    "z.B. = zum Beispiel": {
+        "t": "eg = for example",
+        "score": 0
+    },
+    "allein": {
+        "t": "alone",
+        "score": 0
+    },
+    "Alter das": {
+        "t": "age",
+        "score": 0
+    },
+    "altmodisch": {
+        "t": "old-fashioned",
+        "score": 0
+    },
+    "ärgern (sich)": {
+        "t": "to be annoyed",
+        "score": 0
+    },
+    "auf die Nerven gehen": {
+        "t": "to get on one's nerves",
+        "score": 0
+    },
+    "auskommen (mit)": {
+        "t": "to get on (with)",
+        "score": 0
+    },
+    "aussehen": {
+        "t": "to look like",
+        "score": 0
+    },
+    "Ausweis der": {
+        "t": "identity card",
+        "score": 0
+    },
+    "Bart der": {
+        "t": "beard",
+        "score": 0
+    },
+    "berühmt": {
+        "t": "famous",
+        "score": 0
+    },
+    "Besuch der": {
+        "t": "visit",
+        "score": 0
+    },
+    "besuchen": {
+        "t": "to visit",
+        "score": 0
+    },
+    "bevorzugen": {
+        "t": "to favour, to prefer",
+        "score": 0
+    },
+    "bitten": {
+        "t": "to ask, to beg",
+        "score": 0
+    },
+    "Brieffreund der": {
+        "t": "pen-friend",
+        "score": 0
+    },
+    "Brille die": {
+        "t": "spectacles, glasses",
+        "score": 0
+    },
+    "egoistisch": {
+        "t": "selfish",
+        "score": 0
+    },
+    "ehrlich": {
+        "t": "honest",
+        "score": 0
+    },
+    "Einzelkind das": {
+        "t": "only child",
+        "score": 0
+    },
+    "Enkelkind das": {
+        "t": "grandchild",
+        "score": 0
+    },
+    "entschuldigen (sich)": {
+        "t": "to apologise",
+        "score": 0
+    },
+    "erlauben": {
+        "t": "to allow",
+        "score": 0
+    },
+    "ernst": {
+        "t": "serious",
+        "score": 0
+    },
+    "Erwachsene der/die": {
+        "t": "adult, grown-up",
+        "score": 0
+    },
+    "Familienmitglied das": {
+        "t": "member of the family",
+        "score": 0
+    },
+    "frech": {
+        "t": "cheeky",
+        "score": 0
+    },
+    "Freundschaft die": {
+        "t": "friendship",
+        "score": 0
+    },
+    "fühlen (sich)": {
+        "t": "to feel",
+        "score": 0
+    },
+    "füttern": {
+        "t": "to feed",
+        "score": 0
+    },
+    "geboren (am)": {
+        "t": "born (on)",
+        "score": 0
+    },
+    "Geburt die": {
+        "t": "birth",
+        "score": 0
+    },
+    "Geburtsdatum das": {
+        "t": "date of birth",
+        "score": 0
+    },
+    "Geburtsort der": {
+        "t": "place of birth",
+        "score": 0
+    },
+    "geduldig": {
+        "t": "patient",
+        "score": 0
+    },
+    "Gefühl das": {
+        "t": "feeling",
+        "score": 0
+    },
+    "gemein": {
+        "t": "mean",
+        "score": 0
+    },
+    "gern haben": {
+        "t": "to like",
+        "score": 0
+    },
+    "geschieden": {
+        "t": "divorced",
+        "score": 0
+    },
+    "Geschlecht das": {
+        "t": "sex, gender",
+        "score": 0
+    },
+    "getrennt": {
+        "t": "separated",
+        "score": 0
+    },
+    "glatt": {
+        "t": "straight, smooth",
+        "score": 0
+    },
+    "glücklich": {
+        "t": "happy",
+        "score": 0
+    },
+    "Grund der": {
+        "t": "reason",
+        "score": 0
+    },
+    "gut/schlecht gelaunt": {
+        "t": "good/bad tempered",
+        "score": 0
+    },
+    "gute/schlechte Laune haben": {
+        "t": "to be in a good/bad mood",
+        "score": 0
+    },
+    "hässlich": {
+        "t": "ugly",
+        "score": 0
+    },
+    "heiraten": {
+        "t": "to marry",
+        "score": 0
+    },
+    "hilfsbereit": {
+        "t": "helpful",
+        "score": 0
+    },
+    "Hochzeit die": {
+        "t": "wedding",
+        "score": 0
+    },
+    "höflich": {
+        "t": "polite",
+        "score": 0
+    },
+    "hübsch": {
+        "t": "pretty",
+        "score": 0
+    },
+    "humorlos": {
+        "t": "humourless, no sense of humour",
+        "score": 0
+    },
+    "humorvoll": {
+        "t": "humorous, witty",
+        "score": 0
+    },
+    "ich kann ... gut leiden": {
+        "t": "I like ... (very much)",
+        "score": 0
+    },
+    "ich kann ... nicht leiden": {
+        "t": "I can't stand .../I don't like ...",
+        "score": 0
+    },
+    "Jugendliche der/die": {
+        "t": "youth",
+        "score": 0
+    },
+    "Junge der": {
+        "t": "boy",
+        "score": 0
+    },
+    "kennen": {
+        "t": "to know (a person)",
+        "score": 0
+    },
+    "kennen lernen": {
+        "t": "to get to know",
+        "score": 0
+    },
+    "komisch": {
+        "t": "funny, comical, strange, odd",
+        "score": 0
+    },
+    "kümmern (sich um)": {
+        "t": "to look after",
+        "score": 0
+    },
+    "Kuss der": {
+        "t": "kiss",
+        "score": 0
+    },
+    "küssen": {
+        "t": "to kiss",
+        "score": 0
+    },
+    "leben": {
+        "t": "to live",
+        "score": 0
+    },
+    "ledig": {
+        "t": "single",
+        "score": 0
+    },
+    "Leute (pl)": {
+        "t": "people",
+        "score": 0
+    },
+    "lockig": {
+        "t": "curly",
+        "score": 0
+    },
+    "Mensch der": {
+        "t": "human being",
+        "score": 0
+    },
+    "nennen": {
+        "t": "to name, to call",
+        "score": 0
+    },
+    "nerven": {
+        "t": "to get on someone's nerves",
+        "score": 0
+    },
+    "Ohr das": {
+        "t": "ear",
+        "score": 0
+    },
+    "ordentlich": {
+        "t": "tidy, neat",
+        "score": 0
+    },
+    "Persönlichkeit die": {
+        "t": "personality",
+        "score": 0
+    },
+    "Reisepass der": {
+        "t": "passport",
+        "score": 0
+    },
+    "ruhig": {
+        "t": "quiet, calm",
+        "score": 0
+    },
+    "schämen (sich)": {
+        "t": "to be/feel ashamed",
+        "score": 0
+    },
+    "scheiden (sich lassen)": {
+        "t": "to get divorced",
+        "score": 0
+    },
+    "Schnurrbart der": {
+        "t": "moustache",
+        "score": 0
+    },
+    "schüchtern": {
+        "t": "shy",
+        "score": 0
+    },
+    "selbst": {
+        "t": "self",
+        "score": 0
+    },
+    "selbstständig": {
+        "t": "independent",
+        "score": 0
+    },
+    "sorgen (für)": {
+        "t": "to care (for), to look after",
+        "score": 0
+    },
+    "Spitzname der": {
+        "t": "nick name",
+        "score": 0
+    },
+    "Stief~": {
+        "t": "step ~",
+        "score": 0
+    },
+    "still": {
+        "t": "quiet",
+        "score": 0
+    },
+    "Streit der": {
+        "t": "argument",
+        "score": 0
+    },
+    "streiten (sich)": {
+        "t": "to quarrel, to argue",
+        "score": 0
+    },
+    "streng": {
+        "t": "strict",
+        "score": 0
+    },
+    "Tätowierung die": {
+        "t": "tattoo",
+        "score": 0
+    },
+    "Traum der": {
+        "t": "dream",
+        "score": 0
+    },
+    "traurig": {
+        "t": "sad",
+        "score": 0
+    },
+    "trennen (sich)": {
+        "t": "to separate",
+        "score": 0
+    },
+    "Typ der": {
+        "t": "type, person, bloke",
+        "score": 0
+    },
+    "unternehmungslustig": {
+        "t": "adventurous, like doing lots of things",
+        "score": 0
+    },
+    "vergeben": {
+        "t": "to forgive",
+        "score": 0
+    },
+    "Verhältnis das": {
+        "t": "relationship",
+        "score": 0
+    },
+    "verheiratet": {
+        "t": "married",
+        "score": 0
+    },
+    "verloben (sich)": {
+        "t": "to get engaged",
+        "score": 0
+    },
+    "verlobt": {
+        "t": "engaged (to someone)",
+        "score": 0
+    },
+    "verstehen (sich mit)": {
+        "t": "to get on with",
+        "score": 0
+    },
+    "Vorname der": {
+        "t": "first name",
+        "score": 0
+    },
+    "vorstellen (sich)": {
+        "t": "to introduce oneself",
+        "score": 0
+    },
+    "weinen": {
+        "t": "to cry",
+        "score": 0
+    },
+    "witzig": {
+        "t": "funny",
+        "score": 0
+    },
+    "Wohnort der": {
+        "t": "place of living",
+        "score": 0
+    },
+    "Zahn der": {
+        "t": "tooth",
+        "score": 0
+    },
+    "zivile Partnerschaft die": {
+        "t": "civil partnership",
+        "score": 0
+    },
+    "zusammen": {
+        "t": "together",
+        "score": 0
+    },
+    "Zwillinge (pl)": {
+        "t": "twins",
+        "score": 0
+    },
+    "(aus) drucken": {
+        "t": "to print (out)",
+        "score": 0
+    },
+    "Anrufbeantworter der": {
+        "t": "(telephone) answering machine",
+        "score": 0
+    },
+    "anrufen": {
+        "t": "to call, to ring (phone)",
+        "score": 0
+    },
+    "benutzen/benützen": {
+        "t": "to use",
+        "score": 0
+    },
+    "beschreiben (sich)": {
+        "t": "to describe (oneself)",
+        "score": 0
+    },
+    "Bindestrich der": {
+        "t": "dash, hyphen",
+        "score": 0
+    },
+    "Daten (pl)": {
+        "t": "data",
+        "score": 0
+    },
+    "Drucker der": {
+        "t": "printer",
+        "score": 0
+    },
+    "eingeben": {
+        "t": "to enter (data into computer/phone)",
+        "score": 0
+    },
+    "empfangen": {
+        "t": "to receive",
+        "score": 0
+    },
+    "entwickeln": {
+        "t": "to develop",
+        "score": 0
+    },
+    "Entwicklung die": {
+        "t": "development",
+        "score": 0
+    },
+    "funktionieren": {
+        "t": "to work, to function",
+        "score": 0
+    },
+    "Gefahr die": {
+        "t": "danger",
+        "score": 0
+    },
+    "gehören (zu)": {
+        "t": "to belong (to)",
+        "score": 0
+    },
+    "herunterladen": {
+        "t": "download",
+        "score": 0
+    },
+    "hochladen": {
+        "t": "upload",
+        "score": 0
+    },
+    "Klingelton der": {
+        "t": "ringtone",
+        "score": 0
+    },
+    "lehrreich": {
+        "t": "informative, instructive, educational",
+        "score": 0
+    },
+    "löschen": {
+        "t": "to delete",
+        "score": 0
+    },
+    "Medien (pl)": {
+        "t": "media",
+        "score": 0
+    },
+    "Missbrauch der": {
+        "t": "abuse",
+        "score": 0
+    },
+    "missbrauchen": {
+        "t": "to abuse",
+        "score": 0
+    },
+    "Netz das": {
+        "t": "net",
+        "score": 0
+    },
+    "Netzwerk das": {
+        "t": "network",
+        "score": 0
+    },
+    "peinlich": {
+        "t": "embarrassing",
+        "score": 0
+    },
+    "Postfach das": {
+        "t": "mail box (email)",
+        "score": 0
+    },
+    "Punkt der": {
+        "t": "dot",
+        "score": 0
+    },
+    "Rechner der": {
+        "t": "calculator (phone)",
+        "score": 0
+    },
+    "Risiko das": {
+        "t": "risk",
+        "score": 0
+    },
+    "schicken": {
+        "t": "to send",
+        "score": 0
+    },
+    "Schrägstrich der": {
+        "t": "forward slash",
+        "score": 0
+    },
+    "Schutz der": {
+        "t": "protection",
+        "score": 0
+    },
+    "simsen": {
+        "t": "to send an SMS/text message",
+        "score": 0
+    },
+    "soziale Medien (pl)": {
+        "t": "social media",
+        "score": 0
+    },
+    "speichern": {
+        "t": "to save (data on computer)",
+        "score": 0
+    },
+    "Startseite die": {
+        "t": "homepage (internet)",
+        "score": 0
+    },
+    "teilen": {
+        "t": "to share",
+        "score": 0
+    },
+    "Unterstrich der": {
+        "t": "underscore",
+        "score": 0
+    },
+    "WLAN": {
+        "t": "WiFi/wifi",
+        "score": 0
+    },
+    "Abenteuerfilm der": {
+        "t": "adventure film",
+        "score": 0
+    },
+    "amüsieren (sich)": {
+        "t": "to have fun, to enjoy oneself",
+        "score": 0
+    },
+    "Ananas die": {
+        "t": "pineapple",
+        "score": 0
+    },
+    "anfangen": {
+        "t": "to start, begin",
+        "score": 0
+    },
+    "angeln": {
+        "t": "to fish",
+        "score": 0
+    },
+    "Apfelsine die": {
+        "t": "orange",
+        "score": 0
+    },
+    "Aprikose die": {
+        "t": "apricot",
+        "score": 0
+    },
+    "Badeanzug der": {
+        "t": "swim suit",
+        "score": 0
+    },
+    "Badehose die": {
+        "t": "swimming trunks",
+        "score": 0
+    },
+    "bedienen": {
+        "t": "to serve",
+        "score": 0
+    },
+    "Bedienung, bitte!": {
+        "t": "Service, please!",
+        "score": 0
+    },
+    "beschweren (sich)": {
+        "t": "to complain",
+        "score": 0
+    },
+    "bestellen": {
+        "t": "to order",
+        "score": 0
+    },
+    "bezahlen": {
+        "t": "to pay",
+        "score": 0
+    },
+    "Bildschirm der": {
+        "t": "screen (TV, computer)",
+        "score": 0
+    },
+    "Birne die": {
+        "t": "pear",
+        "score": 0
+    },
+    "Blockflöte die": {
+        "t": "recorder",
+        "score": 0
+    },
+    "Blumenkohl der": {
+        "t": "cauliflower",
+        "score": 0
+    },
+    "Bohne die": {
+        "t": "bean",
+        "score": 0
+    },
+    "Braten der": {
+        "t": "roast meat, joint",
+        "score": 0
+    },
+    "Bratwurst die": {
+        "t": "fried sausage",
+        "score": 0
+    },
+    "drücken": {
+        "t": "press",
+        "score": 0
+    },
+    "Durst der": {
+        "t": "thirst",
+        "score": 0
+    },
+    "durstig": {
+        "t": "thirsty",
+        "score": 0
+    },
+    "Ei das": {
+        "t": "egg",
+        "score": 0
+    },
+    "Eintrittsgeld das": {
+        "t": "admission fee",
+        "score": 0
+    },
+    "Eintrittskarte die": {
+        "t": "(admission) ticket",
+        "score": 0
+    },
+    "Eisdiele die": {
+        "t": "ice cream parlour",
+        "score": 0
+    },
+    "Eislaufen das": {
+        "t": "ice-skating",
+        "score": 0
+    },
+    "empfehlen": {
+        "t": "to recommend",
+        "score": 0
+    },
+    "Erbse die": {
+        "t": "pea",
+        "score": 0
+    },
+    "Erdbeere die": {
+        "t": "strawberry",
+        "score": 0
+    },
+    "Essig der": {
+        "t": "vinegar",
+        "score": 0
+    },
+    "fechten": {
+        "t": "to fence",
+        "score": 0
+    },
+    "Federball der": {
+        "t": "badminton",
+        "score": 0
+    },
+    "folgen": {
+        "t": "to follow",
+        "score": 0
+    },
+    "Freibad das": {
+        "t": "outdoor swimming pool",
+        "score": 0
+    },
+    "Frikadelle die": {
+        "t": "rissole, meat ball",
+        "score": 0
+    },
+    "Fruchtsaft der": {
+        "t": "fruit juice",
+        "score": 0
+    },
+    "Gasthaus das": {
+        "t": "inn, pub",
+        "score": 0
+    },
+    "Gurke die": {
+        "t": "cucumber",
+        "score": 0
+    },
+    "Haferflocken (pl)": {
+        "t": "(porridge) oats",
+        "score": 0
+    },
+    "Hallenbad das": {
+        "t": "indoor swimming pool",
+        "score": 0
+    },
+    "hart": {
+        "t": "hard",
+        "score": 0
+    },
+    "Hauptgericht das": {
+        "t": "main course",
+        "score": 0
+    },
+    "Herr Ober!": {
+        "t": "Waiter!",
+        "score": 0
+    },
+    "Himbeere die": {
+        "t": "raspberry",
+        "score": 0
+    },
+    "holen": {
+        "t": "to fetch, to get",
+        "score": 0
+    },
+    "Imbiss der": {
+        "t": "snack",
+        "score": 0
+    },
+    "Imbissbude die": {
+        "t": "snack bar, takeaway",
+        "score": 0
+    },
+    "Imbissstand der": {
+        "t": "snack bar, takeaway",
+        "score": 0
+    },
+    "Interesse haben an": {
+        "t": "to be interested in",
+        "score": 0
+    },
+    "Jugendklub der": {
+        "t": "youth club",
+        "score": 0
+    },
+    "Kakao der": {
+        "t": "cocoa",
+        "score": 0
+    },
+    "Kännchen das": {
+        "t": "pot (tea, coffee)",
+        "score": 0
+    },
+    "Kartoffel die": {
+        "t": "potato",
+        "score": 0
+    },
+    "Käse der": {
+        "t": "cheese",
+        "score": 0
+    },
+    "kegeln": {
+        "t": "bowling (nine pin)",
+        "score": 0
+    },
+    "Keks der": {
+        "t": "biscuits",
+        "score": 0
+    },
+    "Kirsche die": {
+        "t": "cherry",
+        "score": 0
+    },
+    "klettern": {
+        "t": "to climb",
+        "score": 0
+    },
+    "Korbball der": {
+        "t": "netball",
+        "score": 0
+    },
+    "köstlich": {
+        "t": "delicious",
+        "score": 0
+    },
+    "Kotelett das": {
+        "t": "pork chop",
+        "score": 0
+    },
+    "Krimi der": {
+        "t": "crime (film/book), thriller",
+        "score": 0
+    },
+    "lachen": {
+        "t": "to laugh",
+        "score": 0
+    },
+    "laufen": {
+        "t": "to run",
+        "score": 0
+    },
+    "lecker": {
+        "t": "tasty",
+        "score": 0
+    },
+    "Leinwand die": {
+        "t": "(big) screen (in cinema)",
+        "score": 0
+    },
+    "Liebesfilm der": {
+        "t": "film with a love story",
+        "score": 0
+    },
+    "Lied das": {
+        "t": "song",
+        "score": 0
+    },
+    "Lust haben etwas zu tun": {
+        "t": "to feel like doing something",
+        "score": 0
+    },
+    "Mitglied das": {
+        "t": "member",
+        "score": 0
+    },
+    "Nachrichten (pl)": {
+        "t": "news",
+        "score": 0
+    },
+    "Nachspeise die": {
+        "t": "dessert",
+        "score": 0
+    },
+    "Nachtisch der": {
+        "t": "dessert",
+        "score": 0
+    },
+    "Nudeln (pl)": {
+        "t": "noodles, pasta",
+        "score": 0
+    },
+    "Nuss die": {
+        "t": "nut",
+        "score": 0
+    },
+    "Obst das": {
+        "t": "fruit",
+        "score": 0
+    },
+    "Öl das": {
+        "t": "oil",
+        "score": 0
+    },
+    "Pfeffer der": {
+        "t": "pepper",
+        "score": 0
+    },
+    "Pfirsich der": {
+        "t": "peach",
+        "score": 0
+    },
+    "Pflaume die": {
+        "t": "plum",
+        "score": 0
+    },
+    "Pilz der": {
+        "t": "mushroom",
+        "score": 0
+    },
+    "Praline die": {
+        "t": "chocolate (in a box of chocolates)",
+        "score": 0
+    },
+    "probieren": {
+        "t": "to try, to taste",
+        "score": 0
+    },
+    "Pute die": {
+        "t": "turkey",
+        "score": 0
+    },
+    "Rechnung die": {
+        "t": "bill",
+        "score": 0
+    },
+    "rennen": {
+        "t": "to run",
+        "score": 0
+    },
+    "riechen": {
+        "t": "to smell",
+        "score": 0
+    },
+    "ringen": {
+        "t": "to wrestle",
+        "score": 0
+    },
+    "rodeln": {
+        "t": "to go sledging",
+        "score": 0
+    },
+    "roh": {
+        "t": "raw",
+        "score": 0
+    },
+    "Rollschuh laufen": {
+        "t": "to go roller skating",
+        "score": 0
+    },
+    "rudern": {
+        "t": "to row",
+        "score": 0
+    },
+    "Saft der": {
+        "t": "juice",
+        "score": 0
+    },
+    "Sahne die": {
+        "t": "cream",
+        "score": 0
+    },
+    "sammeln": {
+        "t": "to collect",
+        "score": 0
+    },
+    "satt sein": {
+        "t": "to be full up, have had enough (to eat)",
+        "score": 0
+    },
+    "Schach das": {
+        "t": "chess",
+        "score": 0
+    },
+    "scharf": {
+        "t": "spicy, hot",
+        "score": 0
+    },
+    "Schaschlik das": {
+        "t": "kebab",
+        "score": 0
+    },
+    "schießen": {
+        "t": "to shoot",
+        "score": 0
+    },
+    "schmecken": {
+        "t": "to taste",
+        "score": 0
+    },
+    "Schnellimbiss der": {
+        "t": "snack bar",
+        "score": 0
+    },
+    "Segelboot das": {
+        "t": "sailing boat",
+        "score": 0
+    },
+    "segeln": {
+        "t": "to sail",
+        "score": 0
+    },
+    "Seifenoper die": {
+        "t": "soap opera",
+        "score": 0
+    },
+    "Selbstbedienung die": {
+        "t": "self-service",
+        "score": 0
+    },
+    "Sendung die": {
+        "t": "programme",
+        "score": 0
+    },
+    "Senf der": {
+        "t": "mustard",
+        "score": 1
+    },
+    "Serie die": {
+        "t": "series",
+        "score": 0
+    },
+    "Sitz(platz) der": {
+        "t": "seat",
+        "score": 0
+    },
+    "sitzen": {
+        "t": "to sit",
+        "score": 0
+    },
+    "spannend": {
+        "t": "exciting, thrilling",
+        "score": 0
+    },
+    "Speisekarte die": {
+        "t": "menu",
+        "score": 0
+    },
+    "Speisesaal der": {
+        "t": "dining hall, dining room",
+        "score": 0
+    },
+    "Spielzeug das": {
+        "t": "toy(s)",
+        "score": 0
+    },
+    "Spinat der": {
+        "t": "spinach",
+        "score": 0
+    },
+    "Sportart die": {
+        "t": "type of sport",
+        "score": 0
+    },
+    "springen": {
+        "t": "to jump",
+        "score": 0
+    },
+    "Stadion das": {
+        "t": "stadium",
+        "score": 0
+    },
+    "Stehcafé das": {
+        "t": "small area with tables in a bakery or supermarket (but no seating)",
+        "score": 0
+    },
+    "Stimme die": {
+        "t": "voice",
+        "score": 0
+    },
+    "stricken": {
+        "t": "to knit",
+        "score": 0
+    },
+    "Suppe die": {
+        "t": "soup",
+        "score": 0
+    },
+    "süß": {
+        "t": "sweet",
+        "score": 0
+    },
+    "Tagesgericht das": {
+        "t": "dish of the day",
+        "score": 0
+    },
+    "Tagesmenü das": {
+        "t": "menu of the day",
+        "score": 0
+    },
+    "tauchen": {
+        "t": "to dive",
+        "score": 0
+    },
+    "Thunfisch der": {
+        "t": "tuna",
+        "score": 0
+    },
+    "Tor das": {
+        "t": "goal",
+        "score": 0
+    },
+    "Torte die": {
+        "t": "gateau",
+        "score": 0
+    },
+    "Trainingsanzug der": {
+        "t": "track suit",
+        "score": 0
+    },
+    "Trainingsschuh der": {
+        "t": "sport shoe, trainers",
+        "score": 0
+    },
+    "treffen (sich mit)": {
+        "t": "to meet (someone)",
+        "score": 0
+    },
+    "Trinkgeld das": {
+        "t": "tip (for waiter/waitress)",
+        "score": 0
+    },
+    "turnen": {
+        "t": "to do gymnastics",
+        "score": 0
+    },
+    "unterhalten (sich)": {
+        "t": "to have a chat",
+        "score": 0
+    },
+    "Unterhaltung die": {
+        "t": "entertainment",
+        "score": 0
+    },
+    "Vegetarier der": {
+        "t": "vegetarian",
+        "score": 0
+    },
+    "verlieren": {
+        "t": "to lose",
+        "score": 0
+    },
+    "Volksmusik die": {
+        "t": "folk music",
+        "score": 0
+    },
+    "vorschlagen": {
+        "t": "to suggest",
+        "score": 0
+    },
+    "Vorspeise die": {
+        "t": "starter (on menu)",
+        "score": 0
+    },
+    "Vorstellung die": {
+        "t": "showing, performance",
+        "score": 0
+    },
+    "wandern": {
+        "t": "to hike, to walk",
+        "score": 0
+    },
+    "weich": {
+        "t": "soft",
+        "score": 0
+    },
+    "(Wiener) Schnitzel das": {
+        "t": "veal/pork cutlet (boneless)",
+        "score": 0
+    },
+    "Weintraube die": {
+        "t": "grape",
+        "score": 0
+    },
+    "Werbung die": {
+        "t": "advert(isement)",
+        "score": 0
+    },
+    "werfen": {
+        "t": "to throw",
+        "score": 0
+    },
+    "Wettbewerb der": {
+        "t": "competition",
+        "score": 0
+    },
+    "Wurst die": {
+        "t": "sausage",
+        "score": 0
+    },
+    "zahlen": {
+        "t": "to pay",
+        "score": 0
+    },
+    "Zeichentrickfilm der": {
+        "t": "cartoon",
+        "score": 0
+    },
+    "Zeitschrift die": {
+        "t": "magazine",
+        "score": 0
+    },
+    "Zeitung die": {
+        "t": "newspaper",
+        "score": 0
+    },
+    "Zeug das": {
+        "t": "stuff, things, gear",
+        "score": 0
+    },
+    "ziehen": {
+        "t": "pull",
+        "score": 0
+    },
+    "Zitrone die": {
+        "t": "lemon",
+        "score": 0
+    },
+    "Zucker der": {
+        "t": "sugar",
+        "score": 0
+    },
+    "Zuschauer der": {
+        "t": "spectator, member of the audience",
+        "score": 0
+    },
+    "Zwiebel die": {
+        "t": "onion",
+        "score": 0
+    },
+    "Adventskranz der": {
+        "t": "advent wreath",
+        "score": 0
+    },
+    "anzünden": {
+        "t": "to light",
+        "score": 0
+    },
+    "Aschermittwoch der": {
+        "t": "Ash Wednesday",
+        "score": 0
+    },
+    "bekommen": {
+        "t": "to get, to receive",
+        "score": 0
+    },
+    "danken": {
+        "t": "to thank",
+        "score": 0
+    },
+    "einladen": {
+        "t": "to invite",
+        "score": 0
+    },
+    "Einladung die": {
+        "t": "invitation",
+        "score": 0
+    },
+    "Feier die": {
+        "t": "celebration",
+        "score": 0
+    },
+    "feiern": {
+        "t": "to celebrate",
+        "score": 0
+    },
+    "Feiertag der": {
+        "t": "public holiday",
+        "score": 0
+    },
+    "Fest das": {
+        "t": "festival, celebration",
+        "score": 0
+    },
+    "Feuerwerk das": {
+        "t": "fireworks",
+        "score": 0
+    },
+    "freuen (sich auf)": {
+        "t": "to look forward to",
+        "score": 0
+    },
+    "freuen (sich über)": {
+        "t": "to be pleased about something",
+        "score": 0
+    },
+    "Gast der": {
+        "t": "guest",
+        "score": 0
+    },
+    "Gastgeber der": {
+        "t": "host",
+        "score": 0
+    },
+    "Geschenk das": {
+        "t": "present",
+        "score": 0
+    },
+    "Heiliger Abend (24 Dez)": {
+        "t": "Christmas Eve",
+        "score": 0
+    },
+    "Heilige Drei Könige (6 Jan)": {
+        "t": "Epiphany",
+        "score": 0
+    },
+    "Karfreitag der": {
+        "t": "Good Friday",
+        "score": 0
+    },
+    "Karneval der": {
+        "t": "carnival",
+        "score": 0
+    },
+    "Kerze die": {
+        "t": "candle",
+        "score": 0
+    },
+    "kirchlich": {
+        "t": "religious",
+        "score": 0
+    },
+    "Lebkuchen der": {
+        "t": "type of gingerbread",
+        "score": 0
+    },
+    "Maifeiertag der": {
+        "t": "May Day",
+        "score": 0
+    },
+    "Muttertag der": {
+        "t": "Mother's Day",
+        "score": 0
+    },
+    "Neujahrstag der (1 Jan)": {
+        "t": "New Year's Day",
+        "score": 0
+    },
+    "Osterei das": {
+        "t": "Easter egg",
+        "score": 0
+    },
+    "Osterhase der": {
+        "t": "Easter bunny",
+        "score": 0
+    },
+    "Ostern": {
+        "t": "Easter",
+        "score": 0
+    },
+    "Pfingsten": {
+        "t": "Whitsuntide",
+        "score": 0
+    },
+    "Sankt Nikolaus (Tag) (6 Dez)": {
+        "t": "St Nicholas' Day",
+        "score": 0
+    },
+    "schmücken": {
+        "t": "to decorate",
+        "score": 0
+    },
+    "Silvester": {
+        "t": "New Year's Eve",
+        "score": 0
+    },
+    "Tag der Deutschen Einheit (3 Okt)": {
+        "t": "Day of German Unity",
+        "score": 0
+    },
+    "Valentinstag der (14 Feb)": {
+        "t": "St Valentine's Day",
+        "score": 0
+    },
+    "verkleiden (sich)": {
+        "t": "to dress up, to disguise oneself, to put on fancy dress",
+        "score": 0
+    },
+    "verstecken": {
+        "t": "to hide",
+        "score": 0
+    },
+    "Weihnachten": {
+        "t": "Christmas",
+        "score": 1
+    },
+    "Weihnachtsbaum der": {
+        "t": "Christmas tree",
+        "score": 0
+    },
+    "Weihnachtslieder (pl)": {
+        "t": "Christmas carols",
+        "score": 0
+    },
+    "1. (erste) Weihnachtstag der": {
+        "t": "Christmas Day",
+        "score": 0
+    },
+    "2. (zweite) Weihnachtstag der": {
+        "t": "Boxing Day",
+        "score": 0
+    },
+    "Ampel die": {
+        "t": "traffic light",
+        "score": 0
+    },
+    "anbieten": {
+        "t": "to offer",
+        "score": 0
+    },
+    "Angebot das": {
+        "t": "offer",
+        "score": 0
+    },
+    "anmachen": {
+        "t": "to turn/switch on",
+        "score": 0
+    },
+    "anprobieren": {
+        "t": "to try on (clothes)",
+        "score": 0
+    },
+    "Apotheke die": {
+        "t": "pharmacy",
+        "score": 0
+    },
+    "Apparat der": {
+        "t": "apparatus, appliance, gadget",
+        "score": 0
+    },
+    "aufräumen": {
+        "t": "to tidy (up)",
+        "score": 0
+    },
+    "ausgeben": {
+        "t": "to spend (money)",
+        "score": 0
+    },
+    "ausmachen": {
+        "t": "to turn/switch off",
+        "score": 0
+    },
+    "Ausverkauf der": {
+        "t": "sale",
+        "score": 0
+    },
+    "ausverkauft": {
+        "t": "sold out",
+        "score": 0
+    },
+    "Bäckerei die": {
+        "t": "bakery",
+        "score": 0
+    },
+    "Backofen der": {
+        "t": "oven",
+        "score": 0
+    },
+    "baden": {
+        "t": "to have a bath",
+        "score": 0
+    },
+    "Badewanne die": {
+        "t": "bathtub",
+        "score": 0
+    },
+    "Bauernhaus das": {
+        "t": "farm house",
+        "score": 0
+    },
+    "Bauernhof der": {
+        "t": "farm",
+        "score": 0
+    },
+    "Baum der": {
+        "t": "tree",
+        "score": 0
+    },
+    "Berg der": {
+        "t": "mountain",
+        "score": 0
+    },
+    "Bild das": {
+        "t": "picture",
+        "score": 0
+    },
+    "Blume die": {
+        "t": "flower",
+        "score": 0
+    },
+    "braten": {
+        "t": "to fry",
+        "score": 0
+    },
+    "Brücke die": {
+        "t": "bridge",
+        "score": 0
+    },
+    "Bücherei die": {
+        "t": "library",
+        "score": 0
+    },
+    "Buchhandlung die": {
+        "t": "book shop",
+        "score": 0
+    },
+    "Bürgersteig der": {
+        "t": "pavement",
+        "score": 0
+    },
+    "Dach das": {
+        "t": "roof",
+        "score": 0
+    },
+    "Dachboden der": {
+        "t": "attic, loft",
+        "score": 0
+    },
+    "Decke die": {
+        "t": "ceiling; blanket",
+        "score": 0
+    },
+    "Denkmal das": {
+        "t": "monument",
+        "score": 0
+    },
+    "Diele die": {
+        "t": "hall",
+        "score": 0
+    },
+    "Dom der": {
+        "t": "cathedral",
+        "score": 0
+    },
+    "Doppelhaus das": {
+        "t": "semi-detached house",
+        "score": 0
+    },
+    "Drogerie die": {
+        "t": "chemist's",
+        "score": 0
+    },
+    "Ecke die": {
+        "t": "corner",
+        "score": 1
+    },
+    "eigen": {
+        "t": "own",
+        "score": 0
+    },
+    "Einfamilienhaus das": {
+        "t": "detached house",
+        "score": 0
+    },
+    "einkaufen": {
+        "t": "to shop",
+        "score": 0
+    },
+    "Einkaufskorb der": {
+        "t": "shopping basket",
+        "score": 0
+    },
+    "Einkaufstasche die": {
+        "t": "shopping bag",
+        "score": 0
+    },
+    "Einkaufswagen der": {
+        "t": "shopping trolley",
+        "score": 0
+    },
+    "einpacken": {
+        "t": "to wrap (up)",
+        "score": 0
+    },
+    "Einwohner der": {
+        "t": "inhabitant",
+        "score": 0
+    },
+    "Elektrogeschäft das": {
+        "t": "shop for electrical goods",
+        "score": 0
+    },
+    "Erdgeschoss das": {
+        "t": "ground floor",
+        "score": 0
+    },
+    "Etage die": {
+        "t": "floor, storey",
+        "score": 0
+    },
+    "Etagenbett das": {
+        "t": "bunk bed",
+        "score": 0
+    },
+    "Fabrik die": {
+        "t": "factory",
+        "score": 0
+    },
+    "Feld das": {
+        "t": "field",
+        "score": 0
+    },
+    "flach": {
+        "t": "flat",
+        "score": 0
+    },
+    "Fleischerei die": {
+        "t": "butcher's",
+        "score": 0
+    },
+    "Flur der": {
+        "t": "hall, coridor",
+        "score": 0
+    },
+    "Fluss der": {
+        "t": "river",
+        "score": 0
+    },
+    "Friseur (salon) der": {
+        "t": "hairdresser's",
+        "score": 0
+    },
+    "Fußboden der": {
+        "t": "floor",
+        "score": 0
+    },
+    "Fußgängerzone die": {
+        "t": "pedestrian precinct",
+        "score": 0
+    },
+    "Gabel die": {
+        "t": "fork",
+        "score": 0
+    },
+    "Gasherd der": {
+        "t": "gas cooker",
+        "score": 0
+    },
+    "Gebäude das": {
+        "t": "building",
+        "score": 0
+    },
+    "Gegend die": {
+        "t": "region, area",
+        "score": 0
+    },
+    "günstig": {
+        "t": "reasonable, good value for money",
+        "score": 0
+    },
+    "Hafen der": {
+        "t": "harbour, port",
+        "score": 0
+    },
+    "Haltestelle die": {
+        "t": "stop (bus, tram etc)",
+        "score": 0
+    },
+    "Hauptbahnhof der": {
+        "t": "main railway station",
+        "score": 0
+    },
+    "Hauptstadt die": {
+        "t": "capital city",
+        "score": 0
+    },
+    "Haushalt der": {
+        "t": "household",
+        "score": 0
+    },
+    "Hecke die": {
+        "t": "hedge",
+        "score": 0
+    },
+    "Helm der": {
+        "t": "helmet",
+        "score": 0
+    },
+    "Herd der": {
+        "t": "cooker, stove",
+        "score": 0
+    },
+    "Hochhaus das": {
+        "t": "high rise block of flats",
+        "score": 0
+    },
+    "Hügel der": {
+        "t": "hill",
+        "score": 0
+    },
+    "Insel die": {
+        "t": "island",
+        "score": 0
+    },
+    "Juweliergeschäft das": {
+        "t": "jeweller's",
+        "score": 0
+    },
+    "kaputt": {
+        "t": "broken",
+        "score": 0
+    },
+    "Kasse die": {
+        "t": "till, cash point",
+        "score": 1
+    },
+    "Kaufhaus das": {
+        "t": "department store",
+        "score": 0
+    },
+    "Kirchturm der": {
+        "t": "church tower, spire",
+        "score": 0
+    },
+    "Kleidergeschäft das": {
+        "t": "clothes shop",
+        "score": 0
+    },
+    "klingeln": {
+        "t": "to ring (bell)",
+        "score": 0
+    },
+    "klopfen": {
+        "t": "to knock (door)",
+        "score": 0
+    },
+    "kochen": {
+        "t": "to cook",
+        "score": 0
+    },
+    "Kochfeld das": {
+        "t": "hob",
+        "score": 0
+    },
+    "Kommode die": {
+        "t": "chest of drawers",
+        "score": 0
+    },
+    "Konditorei die": {
+        "t": "confectioner's",
+        "score": 0
+    },
+    "Kopfkissen das": {
+        "t": "pillow",
+        "score": 0
+    },
+    "kostenlos": {
+        "t": "free of charge",
+        "score": 0
+    },
+    "Kreuzung die": {
+        "t": "crossroads",
+        "score": 0
+    },
+    "Kühlschrank der": {
+        "t": "fridge",
+        "score": 0
+    },
+    "Kunde der": {
+        "t": "customer",
+        "score": 0
+    },
+    "Kunstgalerie die": {
+        "t": "art gallery",
+        "score": 0
+    },
+    "Laden der": {
+        "t": "shop",
+        "score": 0
+    },
+    "Land das": {
+        "t": "land, countryside",
+        "score": 0
+    },
+    "Landschaft die": {
+        "t": "landscape",
+        "score": 0
+    },
+    "Lebensmittelgeschäft das": {
+        "t": "grocer's",
+        "score": 0
+    },
+    "leeren": {
+        "t": "to empty",
+        "score": 0
+    },
+    "legen": {
+        "t": "to lay, to put, to place (down)",
+        "score": 0
+    },
+    "Licht das": {
+        "t": "light",
+        "score": 0
+    },
+    "liefern": {
+        "t": "to deliver",
+        "score": 0
+    },
+    "Löffel der": {
+        "t": "spoon",
+        "score": 0
+    },
+    "mähen": {
+        "t": "to mow",
+        "score": 0
+    },
+    "Mahlzeit die": {
+        "t": "meal, meal time",
+        "score": 0
+    },
+    "Marke die": {
+        "t": "brand, make",
+        "score": 0
+    },
+    "Marktplatz der": {
+        "t": "market place",
+        "score": 0
+    },
+    "Mauer die": {
+        "t": "wall (outside)",
+        "score": 0
+    },
+    "Messer das": {
+        "t": "knife",
+        "score": 0
+    },
+    "Metzgerei die": {
+        "t": "butcher's",
+        "score": 0
+    },
+    "Miete die": {
+        "t": "rent",
+        "score": 0
+    },
+    "mieten": {
+        "t": "to rent, to hire",
+        "score": 0
+    },
+    "Mikrowelle die": {
+        "t": "microwave oven",
+        "score": 0
+    },
+    "Möbel (pl)": {
+        "t": "furniture",
+        "score": 0
+    },
+    "Mofa das": {
+        "t": "(motorised) bicycle",
+        "score": 0
+    },
+    "Motorrad das": {
+        "t": "motor bike",
+        "score": 0
+    },
+    "nach Hause": {
+        "t": "(going) home",
+        "score": 0
+    },
+    "nach oben": {
+        "t": "upstairs",
+        "score": 0
+    },
+    "nach unten": {
+        "t": "downstairs",
+        "score": 0
+    },
+    "Nachbar der": {
+        "t": "neighbour",
+        "score": 0
+    },
+    "Nachteil der": {
+        "t": "disadvantage",
+        "score": 0
+    },
+    "Nachttisch der": {
+        "t": "bedside cabinet",
+        "score": 0
+    },
+    "Obst- und Gemüseladen der": {
+        "t": "green grocer's",
+        "score": 0
+    },
+    "Ordnung die": {
+        "t": "order",
+        "score": 0
+    },
+    "Parkplatz der": {
+        "t": "parking place",
+        "score": 0
+    },
+    "Pflanze die": {
+        "t": "plant",
+        "score": 0
+    },
+    "Plakat das": {
+        "t": "poster, billboard",
+        "score": 0
+    },
+    "Platz der": {
+        "t": "place; square",
+        "score": 0
+    },
+    "putzen": {
+        "t": "to clean",
+        "score": 0
+    },
+    "Quittung die": {
+        "t": "receipt",
+        "score": 0
+    },
+    "Rasen der": {
+        "t": "lawn",
+        "score": 0
+    },
+    "Regal das": {
+        "t": "shelf",
+        "score": 0
+    },
+    "Reihenhaus das": {
+        "t": "terraced house",
+        "score": 0
+    },
+    "Reinigung die": {
+        "t": "dry cleaner's",
+        "score": 0
+    },
+    "Rolltreppe die": {
+        "t": "escalator",
+        "score": 0
+    },
+    "Sache die": {
+        "t": "thing; stuff",
+        "score": 0
+    },
+    "sauber machen": {
+        "t": "to clean",
+        "score": 0
+    },
+    "S-Bahn die": {
+        "t": "suburban (fast) railway",
+        "score": 0
+    },
+    "Schaufenster das": {
+        "t": "shop window",
+        "score": 0
+    },
+    "Schlange stehen": {
+        "t": "to queue",
+        "score": 0
+    },
+    "Schlüssel der": {
+        "t": "key",
+        "score": 0
+    },
+    "Schrank der": {
+        "t": "cupboard",
+        "score": 0
+    },
+    "Schreibwarengeschäft das": {
+        "t": "stationery shop",
+        "score": 0
+    },
+    "Schublade die": {
+        "t": "drawer",
+        "score": 0
+    },
+    "Sonderangebot das": {
+        "t": "special offer",
+        "score": 0
+    },
+    "Sonst noch etwas?": {
+        "t": "Anything else?",
+        "score": 0
+    },
+    "Spiegel der": {
+        "t": "mirror",
+        "score": 0
+    },
+    "Spielplatz der": {
+        "t": "play ground",
+        "score": 0
+    },
+    "Stadtrand der": {
+        "t": "outskirts of a town",
+        "score": 0
+    },
+    "stecken": {
+        "t": "to put (something into)",
+        "score": 0
+    },
+    "stellen": {
+        "t": "to put, to place (upright)",
+        "score": 0
+    },
+    "Straßenbahn die": {
+        "t": "tram",
+        "score": 0
+    },
+    "tanken": {
+        "t": "to fill up with petrol/diesel",
+        "score": 0
+    },
+    "Tankstelle die": {
+        "t": "petrol station",
+        "score": 0
+    },
+    "Tasse die": {
+        "t": "cup",
+        "score": 0
+    },
+    "Teelöffel der": {
+        "t": "teaspoon",
+        "score": 0
+    },
+    "Teller der": {
+        "t": "plate",
+        "score": 0
+    },
+    "Teppich der": {
+        "t": "carpet",
+        "score": 0
+    },
+    "Tiefkühlschrank der": {
+        "t": "freezer",
+        "score": 0
+    },
+    "Tischdecke die": {
+        "t": "table cloth",
+        "score": 0
+    },
+    "Topf der": {
+        "t": "pan",
+        "score": 0
+    },
+    "Treppe die": {
+        "t": "stairs",
+        "score": 0
+    },
+    "Turm der": {
+        "t": "tower",
+        "score": 0
+    },
+    "U-Bahn die": {
+        "t": "underground train, tube",
+        "score": 0
+    },
+    "umgeben von": {
+        "t": "surrounded by",
+        "score": 0
+    },
+    "Umgebung die": {
+        "t": "surrounding area",
+        "score": 0
+    },
+    "umziehen": {
+        "t": "to move (house)",
+        "score": 0
+    },
+    "Vorhang der": {
+        "t": "curtain",
+        "score": 0
+    },
+    "Vorort der": {
+        "t": "suburb",
+        "score": 0
+    },
+    "Vorteil der": {
+        "t": "advantage",
+        "score": 0
+    },
+    "Wald der": {
+        "t": "wood, forest",
+        "score": 0
+    },
+    "Wand die": {
+        "t": "wall (inside)",
+        "score": 0
+    },
+    "Warenhaus das": {
+        "t": "department store",
+        "score": 0
+    },
+    "Waschbecken das": {
+        "t": "wash basin",
+        "score": 0
+    },
+    "Wiese die": {
+        "t": "meadow",
+        "score": 0
+    },
+    "Wintergarten der": {
+        "t": "conservatory",
+        "score": 0
+    },
+    "Wohnblock der": {
+        "t": "block of flats",
+        "score": 0
+    },
+    "Zebrastreifen der": {
+        "t": "zebra crossing",
+        "score": 0
+    },
+    "abhängig sein von": {
+        "t": "to be dependent on",
+        "score": 0
+    },
+    "abnehmen": {
+        "t": "to lose weight",
+        "score": 0
+    },
+    "Ader die": {
+        "t": "vein",
+        "score": 0
+    },
+    "Altenheim das": {
+        "t": "old people's home",
+        "score": 0
+    },
+    "anonym": {
+        "t": "anonymous",
+        "score": 0
+    },
+    "atmen": {
+        "t": "breath",
+        "score": 0
+    },
+    "aufgeben": {
+        "t": "to give up",
+        "score": 0
+    },
+    "aufhören": {
+        "t": "to stop",
+        "score": 0
+    },
+    "Ausländer der": {
+        "t": "foreigner",
+        "score": 0
+    },
+    "ausländisch": {
+        "t": "foreign",
+        "score": 0
+    },
+    "betrunken": {
+        "t": "drunk, intoxicated",
+        "score": 0
+    },
+    "Bewegung die": {
+        "t": "movement; exercise",
+        "score": 0
+    },
+    "bewusstlos": {
+        "t": "unconscious",
+        "score": 0
+    },
+    "Bewusstsein das": {
+        "t": "consciousness",
+        "score": 0
+    },
+    "Bio~": {
+        "t": "biological ~, organic",
+        "score": 0
+    },
+    "Blut das": {
+        "t": "blood",
+        "score": 0
+    },
+    "brechen": {
+        "t": "to be sick; to break",
+        "score": 0
+    },
+    "Droge die": {
+        "t": "drug",
+        "score": 0
+    },
+    "Drogenhändler der": {
+        "t": "drug dealer",
+        "score": 0
+    },
+    "Drogensüchtige der/die": {
+        "t": "drug addict",
+        "score": 0
+    },
+    "Einwanderer der": {
+        "t": "immigrant",
+        "score": 0
+    },
+    "entspannen (sich)": {
+        "t": "to relax",
+        "score": 0
+    },
+    "Ernährung die": {
+        "t": "food, nourishment, nutrition",
+        "score": 0
+    },
+    "Erste Hilfe": {
+        "t": "First Aid",
+        "score": 0
+    },
+    "es geht mir gut/schlecht": {
+        "t": "I am fine, well/not well",
+        "score": 0
+    },
+    "Fett das": {
+        "t": "fat",
+        "score": 0
+    },
+    "fettig": {
+        "t": "fatty",
+        "score": 0
+    },
+    "fettleibig": {
+        "t": "obese",
+        "score": 0
+    },
+    "Feuerwehr die": {
+        "t": "fire brigade",
+        "score": 0
+    },
+    "freiwillig": {
+        "t": "voluntarily",
+        "score": 0
+    },
+    "Freiwillige der/die": {
+        "t": "volunteer",
+        "score": 0
+    },
+    "gebrochen": {
+        "t": "broken",
+        "score": 0
+    },
+    "gesund": {
+        "t": "healthy",
+        "score": 0
+    },
+    "Gesundheit die": {
+        "t": "health",
+        "score": 0
+    },
+    "Gewicht das": {
+        "t": "weight",
+        "score": 0
+    },
+    "gewinnen": {
+        "t": "to win",
+        "score": 0
+    },
+    "halten": {
+        "t": "to hold, to keep",
+        "score": 0
+    },
+    "Hautfarbe die": {
+        "t": "colour of the skin",
+        "score": 0
+    },
+    "Heim das": {
+        "t": "home, hostel",
+        "score": 0
+    },
+    "helfen": {
+        "t": "to help",
+        "score": 0
+    },
+    "Herz das": {
+        "t": "heart",
+        "score": 0
+    },
+    "Hilfe die": {
+        "t": "help",
+        "score": 0
+    },
+    "hilflos": {
+        "t": "helpless",
+        "score": 0
+    },
+    "in Form sein": {
+        "t": "to be in form/in (good) shape",
+        "score": 0
+    },
+    "krank": {
+        "t": "ill",
+        "score": 0
+    },
+    "Krankenhaus das": {
+        "t": "hospital",
+        "score": 0
+    },
+    "Krankenwagen der": {
+        "t": "ambulance",
+        "score": 0
+    },
+    "Krankheit die": {
+        "t": "illness",
+        "score": 0
+    },
+    "Krebs der": {
+        "t": "cancer",
+        "score": 0
+    },
+    "Leber die": {
+        "t": "liver",
+        "score": 0
+    },
+    "Magen der": {
+        "t": "stomach",
+        "score": 0
+    },
+    "Medikament das": {
+        "t": "medicine",
+        "score": 0
+    },
+    "Preis der": {
+        "t": "prize",
+        "score": 0
+    },
+    "Rasse die": {
+        "t": "race",
+        "score": 0
+    },
+    "Rassismus der": {
+        "t": "racism",
+        "score": 0
+    },
+    "rassistisch": {
+        "t": "racist",
+        "score": 0
+    },
+    "rauchen": {
+        "t": "to smoke",
+        "score": 0
+    },
+    "Ruhe die": {
+        "t": "peace, quiet, tranquillity",
+        "score": 0
+    },
+    "Schmerz der": {
+        "t": "pain, ache",
+        "score": 0
+    },
+    "...schmerzen haben": {
+        "t": "to have ...ache",
+        "score": 0
+    },
+    "Sorge die": {
+        "t": "worry",
+        "score": 0
+    },
+    "sorgen für": {
+        "t": "to care for, to look after",
+        "score": 0
+    },
+    "spenden": {
+        "t": "to donate",
+        "score": 0
+    },
+    "Spritze die": {
+        "t": "syringe, injection",
+        "score": 0
+    },
+    "spritzen": {
+        "t": "to inject",
+        "score": 0
+    },
+    "sterben": {
+        "t": "to die",
+        "score": 0
+    },
+    "Sucht die": {
+        "t": "addiction",
+        "score": 0
+    },
+    "süchtig": {
+        "t": "addicted, addictive",
+        "score": 0
+    },
+    "Tierheim das": {
+        "t": "animal shelter",
+        "score": 0
+    },
+    "tot": {
+        "t": "dead",
+        "score": 0
+    },
+    "übel (mir ist)": {
+        "t": "I feel ill, sick",
+        "score": 0
+    },
+    "Unfall der": {
+        "t": "accident",
+        "score": 0
+    },
+    "Vene die": {
+        "t": "vein",
+        "score": 0
+    },
+    "Verkehrsunfall der": {
+        "t": "traffic accident",
+        "score": 0
+    },
+    "verletzen (sich)": {
+        "t": "to be/get injured",
+        "score": 0
+    },
+    "Verletzung die": {
+        "t": "injury",
+        "score": 0
+    },
+    "weh tun": {
+        "t": "to hurt",
+        "score": 0
+    },
+    "Wohltätigkeit die": {
+        "t": "charity",
+        "score": 0
+    },
+    "Wohltätigkeitskonzert das": {
+        "t": "charity concert",
+        "score": 0
+    },
+    "Wohltätigkeitsveranstaltung die": {
+        "t": "charity event",
+        "score": 0
+    },
+    "zunehmen": {
+        "t": "to put on weight",
+        "score": 1
+    },
+    "Abfall der": {
+        "t": "rubbish, waste",
+        "score": 0
+    },
+    "Abfalleimer der": {
+        "t": "rubbish bin, litter bin",
+        "score": 0
+    },
+    "Abgase (pl)": {
+        "t": "exhaust fumes",
+        "score": 0
+    },
+    "Achtung die": {
+        "t": "respect, esteem",
+        "score": 0
+    },
+    "alternative Energiequelle die": {
+        "t": "alternative source of energy",
+        "score": 0
+    },
+    "Altpapier das": {
+        "t": "waste paper",
+        "score": 0
+    },
+    "anbauen": {
+        "t": "to grow",
+        "score": 0
+    },
+    "arbeitslos": {
+        "t": "unemployed",
+        "score": 0
+    },
+    "arm": {
+        "t": "poor",
+        "score": 0
+    },
+    "Armut die": {
+        "t": "poverty",
+        "score": 0
+    },
+    "aussterben": {
+        "t": "to die out",
+        "score": 0
+    },
+    "bedrohen": {
+        "t": "to threaten",
+        "score": 0
+    },
+    "Benzin das": {
+        "t": "petrol",
+        "score": 0
+    },
+    "Bettler der": {
+        "t": "beggar",
+        "score": 0
+    },
+    "Bevölkerung die": {
+        "t": "population",
+        "score": 0
+    },
+    "biologisch": {
+        "t": "biological, organic",
+        "score": 0
+    },
+    "Biomüll der": {
+        "t": "organic waste",
+        "score": 0
+    },
+    "bleifrei": {
+        "t": "lead free",
+        "score": 0
+    },
+    "brauchen": {
+        "t": "to need",
+        "score": 0
+    },
+    "Brennstoff der": {
+        "t": "fuel",
+        "score": 0
+    },
+    "chemisch": {
+        "t": "chemical(ly)",
+        "score": 0
+    },
+    "Dieb der": {
+        "t": "thief",
+        "score": 0
+    },
+    "Diskriminierung die": {
+        "t": "discrimination",
+        "score": 0
+    },
+    "einsam": {
+        "t": "lonely",
+        "score": 0
+    },
+    "entsorgen": {
+        "t": "to dispose of (waste, refuse, sewage)",
+        "score": 0
+    },
+    "erfrieren": {
+        "t": "to freeze to death",
+        "score": 0
+    },
+    "Fahrradweg der": {
+        "t": "bicycle track/lane",
+        "score": 0
+    },
+    "FCKWs": {
+        "t": "CFCs",
+        "score": 0
+    },
+    "fliehen": {
+        "t": "to flee",
+        "score": 0
+    },
+    "Flüchtling der": {
+        "t": "refugee",
+        "score": 0
+    },
+    "Gebrauch der": {
+        "t": "usage",
+        "score": 0
+    },
+    "gefährlich": {
+        "t": "dangerous",
+        "score": 0
+    },
+    "Gesellschaft die": {
+        "t": "society",
+        "score": 0
+    },
+    "Gewalt die": {
+        "t": "violence",
+        "score": 0
+    },
+    "gewalttätig": {
+        "t": "violent",
+        "score": 0
+    },
+    "heizen": {
+        "t": "to heat",
+        "score": 0
+    },
+    "Heizung die": {
+        "t": "heating",
+        "score": 0
+    },
+    "Kaugummi der": {
+        "t": "chewing gum",
+        "score": 0
+    },
+    "keinen festen Wohnsitz haben": {
+        "t": "to have no fixed abode",
+        "score": 0
+    },
+    "Kohle die": {
+        "t": "coal",
+        "score": 0
+    },
+    "Kraftwerk das": {
+        "t": "power station",
+        "score": 0
+    },
+    "Krieg der": {
+        "t": "war",
+        "score": 0
+    },
+    "Kunststoff der": {
+        "t": "man-made/synthetic material",
+        "score": 0
+    },
+    "Lärm der": {
+        "t": "noise",
+        "score": 0
+    },
+    "laut": {
+        "t": "noisy",
+        "score": 0
+    },
+    "Leben das": {
+        "t": "life",
+        "score": 0
+    },
+    "Luft die": {
+        "t": "air",
+        "score": 0
+    },
+    "Luftverschmutzung die": {
+        "t": "air pollution",
+        "score": 0
+    },
+    "Müll der": {
+        "t": "refuse, waste, rubbish",
+        "score": 0
+    },
+    "Mülltonne die": {
+        "t": "dustbin",
+        "score": 0
+    },
+    "obdachlos": {
+        "t": "homeless",
+        "score": 0
+    },
+    "öffentlich": {
+        "t": "public(ly)",
+        "score": 0
+    },
+    "Opfer das": {
+        "t": "victim",
+        "score": 0
+    },
+    "Ozonloch das": {
+        "t": "hole in the ozone layer",
+        "score": 0
+    },
+    "Ozonschicht die": {
+        "t": "ozone layer",
+        "score": 0
+    },
+    "Pfand das": {
+        "t": "deposit",
+        "score": 0
+    },
+    "reich": {
+        "t": "rich",
+        "score": 0
+    },
+    "reinigen": {
+        "t": "to clean",
+        "score": 0
+    },
+    "sauber": {
+        "t": "clean",
+        "score": 0
+    },
+    "Sauerstoff der": {
+        "t": "oxygen",
+        "score": 0
+    },
+    "saure Regen der": {
+        "t": "acid rain",
+        "score": 0
+    },
+    "Schaden der": {
+        "t": "damage",
+        "score": 0
+    },
+    "schädlich": {
+        "t": "harmful",
+        "score": 0
+    },
+    "Schale die": {
+        "t": "skin (fruit), peel (potato), shell (egg)",
+        "score": 0
+    },
+    "schmutzig": {
+        "t": "dirty",
+        "score": 0
+    },
+    "schützen": {
+        "t": "to protect",
+        "score": 0
+    },
+    "schwach": {
+        "t": "weak",
+        "score": 0
+    },
+    "Solarzelle die": {
+        "t": "solar cell",
+        "score": 0
+    },
+    "Sonnenenergie die": {
+        "t": "solar energy",
+        "score": 0
+    },
+    "Sozialhilfe die": {
+        "t": "income support",
+        "score": 0
+    },
+    "Sozialwohnung die": {
+        "t": "council flat",
+        "score": 0
+    },
+    "sparen": {
+        "t": "to save, to conserve",
+        "score": 0
+    },
+    "Spraydose die": {
+        "t": "aerosol",
+        "score": 0
+    },
+    "stark": {
+        "t": "strong",
+        "score": 0
+    },
+    "stehlen": {
+        "t": "to steal",
+        "score": 0
+    },
+    "Suppenküche die": {
+        "t": "soup kitchen",
+        "score": 0
+    },
+    "Treibhauseffekt der": {
+        "t": "greenhouse effect",
+        "score": 0
+    },
+    "überbevölkert": {
+        "t": "over-populated",
+        "score": 0
+    },
+    "ultraviolette Strahlen (pl)": {
+        "t": "ultra-violet rays",
+        "score": 0
+    },
+    "Umfrage die": {
+        "t": "survey, opinion poll",
+        "score": 0
+    },
+    "Umwelt die": {
+        "t": "environment",
+        "score": 0
+    },
+    "umweltfeindlich": {
+        "t": "environmentally hostile",
+        "score": 0
+    },
+    "umweltfreundlich": {
+        "t": "environmentally friendly",
+        "score": 0
+    },
+    "unterstützen": {
+        "t": "to support",
+        "score": 0
+    },
+    "Unterstützung die": {
+        "t": "support, help",
+        "score": 0
+    },
+    "Verbrauch der": {
+        "t": "consumption",
+        "score": 0
+    },
+    "Verbrechen das": {
+        "t": "crime",
+        "score": 0
+    },
+    "Verbrecher der": {
+        "t": "criminal",
+        "score": 0
+    },
+    "Verkehr der": {
+        "t": "traffic",
+        "score": 0
+    },
+    "Verkehrsmittel das": {
+        "t": "means of transport",
+        "score": 0
+    },
+    "Verpackung die": {
+        "t": "packaging",
+        "score": 0
+    },
+    "verschmutzen": {
+        "t": "to pollute",
+        "score": 0
+    },
+    "Verschmutzung die": {
+        "t": "pollution",
+        "score": 0
+    },
+    "verschwinden": {
+        "t": "to disappear",
+        "score": 0
+    },
+    "vertreiben": {
+        "t": "to drive out, to expel",
+        "score": 0
+    },
+    "Wasserkraft die": {
+        "t": "hydroelectric power",
+        "score": 0
+    },
+    "Wasserverschmutzung die": {
+        "t": "water pollution",
+        "score": 0
+    },
+    "wegwerfen": {
+        "t": "to throw away",
+        "score": 0
+    },
+    "weltweit": {
+        "t": "worldwide",
+        "score": 0
+    },
+    "zerstören": {
+        "t": "to destroy",
+        "score": 0
+    },
+    "Zuhause das": {
+        "t": "home, house",
+        "score": 0
+    },
+    "abfahren": {
+        "t": "to leave, to depart",
+        "score": 0
+    },
+    "abholen": {
+        "t": "to collect, to pick up",
+        "score": 0
+    },
+    "ankommen": {
+        "t": "to arrive",
+        "score": 0
+    },
+    "Asien": {
+        "t": "Asia",
+        "score": 0
+    },
+    "Ausflug der": {
+        "t": "trip, excursion",
+        "score": 0
+    },
+    "ausfüllen": {
+        "t": "to fill in",
+        "score": 0
+    },
+    "Ausland das": {
+        "t": "foreign country, abroad",
+        "score": 0
+    },
+    "Aussicht die": {
+        "t": "view",
+        "score": 0
+    },
+    "aussteigen": {
+        "t": "to alight, get off (bus)",
+        "score": 0
+    },
+    "Bahnsteig der": {
+        "t": "platform",
+        "score": 0
+    },
+    "Belgien": {
+        "t": "Belgium",
+        "score": 0
+    },
+    "beliebt": {
+        "t": "popular",
+        "score": 0
+    },
+    "besichtigen": {
+        "t": "to sightsee, to visit, to have a look",
+        "score": 0
+    },
+    "bleiben": {
+        "t": "to stay",
+        "score": 0
+    },
+    "Blick der": {
+        "t": "view, glance",
+        "score": 0
+    },
+    "Boot das": {
+        "t": "boat",
+        "score": 0
+    },
+    "Briefkasten der": {
+        "t": "letter box",
+        "score": 0
+    },
+    "Briefmarke die": {
+        "t": "postage stamp",
+        "score": 0
+    },
+    "Burg die": {
+        "t": "(fortified) castle",
+        "score": 0
+    },
+    "Campingplatz der": {
+        "t": "campsite",
+        "score": 0
+    },
+    "Donau die": {
+        "t": "Danube",
+        "score": 0
+    },
+    "Doppelzimmer das": {
+        "t": "double room",
+        "score": 0
+    },
+    "einsteigen": {
+        "t": "to get in/on",
+        "score": 0
+    },
+    "Einzelzimmer das": {
+        "t": "single room",
+        "score": 0
+    },
+    "entwerten": {
+        "t": "to stamp/validate a ticket",
+        "score": 0
+    },
+    "Erinnerung die": {
+        "t": "memory",
+        "score": 0
+    },
+    "erleben": {
+        "t": "to experience",
+        "score": 0
+    },
+    "Ermäßigung die": {
+        "t": "reduction",
+        "score": 0
+    },
+    "Fähre die": {
+        "t": "ferry",
+        "score": 0
+    },
+    "Fahrkarte die": {
+        "t": "ticket",
+        "score": 0
+    },
+    "Fahrkartenautomat der": {
+        "t": "ticket machine",
+        "score": 0
+    },
+    "Fahrkartenschalter der": {
+        "t": "ticket office",
+        "score": 0
+    },
+    "Fahrpreis der": {
+        "t": "fare",
+        "score": 0
+    },
+    "Fahrradvermietung die": {
+        "t": "bicycle hire",
+        "score": 0
+    },
+    "Fahrt die": {
+        "t": "journey",
+        "score": 0
+    },
+    "Flug der": {
+        "t": "flight",
+        "score": 0
+    },
+    "Flughafen der": {
+        "t": "airport",
+        "score": 0
+    },
+    "Flugzeug das": {
+        "t": "plane",
+        "score": 0
+    },
+    "Formular das": {
+        "t": "form",
+        "score": 0
+    },
+    "Fotoapparat der": {
+        "t": "camera",
+        "score": 0
+    },
+    "Führung die": {
+        "t": "guided tour",
+        "score": 0
+    },
+    "Gepäck das": {
+        "t": "luggage",
+        "score": 0
+    },
+    "Gleis das": {
+        "t": "track, platform",
+        "score": 0
+    },
+    "Griechenland": {
+        "t": "Greece",
+        "score": 0
+    },
+    "Halbpension die": {
+        "t": "half board",
+        "score": 0
+    },
+    "herumfahren": {
+        "t": "to travel around",
+        "score": 0
+    },
+    "Jugendherberge die": {
+        "t": "youth hostel",
+        "score": 0
+    },
+    "Koffer der": {
+        "t": "suitcase",
+        "score": 0
+    },
+    "Köln": {
+        "t": "Cologne",
+        "score": 0
+    },
+    "Küste die": {
+        "t": "coast",
+        "score": 0
+    },
+    "Linie die": {
+        "t": "line, number (tram, bus)",
+        "score": 0
+    },
+    "Meer das": {
+        "t": "sea",
+        "score": 0
+    },
+    "Mittelmeer das": {
+        "t": "Mediterranean",
+        "score": 0
+    },
+    "Mosel die": {
+        "t": "Moselle",
+        "score": 0
+    },
+    "München": {
+        "t": "Munich",
+        "score": 0
+    },
+    "Notausgang der": {
+        "t": "emergency exit",
+        "score": 0
+    },
+    "Öffnungszeiten (pl)": {
+        "t": "opening times",
+        "score": 0
+    },
+    "örtlich": {
+        "t": "local",
+        "score": 0
+    },
+    "Ostsee die": {
+        "t": "Baltic Sea",
+        "score": 0
+    },
+    "Panne die": {
+        "t": "breakdown, puncture, flat tyre",
+        "score": 0
+    },
+    "Passagier der": {
+        "t": "passenger",
+        "score": 0
+    },
+    "Pension die": {
+        "t": "(small) hotel",
+        "score": 0
+    },
+    "Polen": {
+        "t": "Poland",
+        "score": 0
+    },
+    "Reise die": {
+        "t": "journey, trip, voyage",
+        "score": 0
+    },
+    "Reisebüro das": {
+        "t": "travel agency",
+        "score": 0
+    },
+    "Reisebus der": {
+        "t": "coach",
+        "score": 0
+    },
+    "reisen": {
+        "t": "to travel",
+        "score": 0
+    },
+    "Reisende der/die": {
+        "t": "traveller",
+        "score": 0
+    },
+    "Reisescheck der": {
+        "t": "traveller's cheque",
+        "score": 0
+    },
+    "Reisetasche die": {
+        "t": "travel bag",
+        "score": 0
+    },
+    "Reiseziel das": {
+        "t": "destination",
+        "score": 0
+    },
+    "Rhein der": {
+        "t": "Rhine",
+        "score": 0
+    },
+    "Richtung die": {
+        "t": "direction",
+        "score": 0
+    },
+    "Rundfahrt die": {
+        "t": "round trip, tour",
+        "score": 0
+    },
+    "Russland": {
+        "t": "Russia",
+        "score": 0
+    },
+    "Schließfach das": {
+        "t": "locker",
+        "score": 0
+    },
+    "Schloss das": {
+        "t": "castle, palace",
+        "score": 0
+    },
+    "See der": {
+        "t": "lake",
+        "score": 0
+    },
+    "See die": {
+        "t": "sea",
+        "score": 0
+    },
+    "seekrank": {
+        "t": "sea sick",
+        "score": 0
+    },
+    "sehenswert": {
+        "t": "worth seeing",
+        "score": 0
+    },
+    "Sehenswürdigkeit die": {
+        "t": "tourist attraction, sight",
+        "score": 0
+    },
+    "Sicherheitsgurt der": {
+        "t": "safety belt, seat belt",
+        "score": 0
+    },
+    "sonnen (sich)": {
+        "t": "to sunbathe",
+        "score": 0
+    },
+    "Sonnenbrand der": {
+        "t": "sunburn",
+        "score": 0
+    },
+    "Sonnencreme die": {
+        "t": "suntan lotion",
+        "score": 0
+    },
+    "Speisewagen der": {
+        "t": "dining car, restaurant car (train)",
+        "score": 0
+    },
+    "Stadtbummel der": {
+        "t": "stroll through town; window shopping",
+        "score": 0
+    },
+    "Stadtrundfahrt die": {
+        "t": "sightseeing tour of a town/city",
+        "score": 0
+    },
+    "Stau der": {
+        "t": "traffic jam",
+        "score": 0
+    },
+    "Strand der": {
+        "t": "beach",
+        "score": 0
+    },
+    "Straßenkarte die": {
+        "t": "road map",
+        "score": 0
+    },
+    "Überfahrt die": {
+        "t": "crossing (sea)",
+        "score": 0
+    },
+    "übernachten": {
+        "t": "to stay overnight",
+        "score": 0
+    },
+    "Übernachtung die": {
+        "t": "overnight stay",
+        "score": 0
+    },
+    "Übernachtung mit Frühstück": {
+        "t": "B&B",
+        "score": 0
+    },
+    "überqueren": {
+        "t": "to cross (road, sea)",
+        "score": 0
+    },
+    "umsteigen": {
+        "t": "to change (means of transport)",
+        "score": 0
+    },
+    "unterwegs": {
+        "t": "on the way",
+        "score": 0
+    },
+    "Urlaub der": {
+        "t": "holiday",
+        "score": 0
+    },
+    "verbringen": {
+        "t": "to spend (time)",
+        "score": 0
+    },
+    "verpassen": {
+        "t": "to miss",
+        "score": 0
+    },
+    "Verspätung die": {
+        "t": "delay",
+        "score": 0
+    },
+    "Vollpension die": {
+        "t": "full board",
+        "score": 0
+    },
+    "warten (auf)": {
+        "t": "to wait (for)",
+        "score": 0
+    },
+    "Wartesaal der": {
+        "t": "waiting room (eg station)",
+        "score": 0
+    },
+    "weg": {
+        "t": "away",
+        "score": 0
+    },
+    "Weg der": {
+        "t": "way, path",
+        "score": 0
+    },
+    "wegfahren": {
+        "t": "to leave, to travel away",
+        "score": 0
+    },
+    "weggehen": {
+        "t": "to leave, to go away",
+        "score": 0
+    },
+    "weiterfahren": {
+        "t": "to travel on",
+        "score": 0
+    },
+    "wieder": {
+        "t": "again",
+        "score": 0
+    },
+    "Wien": {
+        "t": "Vienna",
+        "score": 0
+    },
+    "Wohnwagen der": {
+        "t": "caravan",
+        "score": 0
+    },
+    "Zelt das": {
+        "t": "tent",
+        "score": 0
+    },
+    "zelten": {
+        "t": "to camp",
+        "score": 0
+    },
+    "Zweibettzimmer das": {
+        "t": "twin bed room",
+        "score": 0
+    },
+    "Direktor der": {
+        "t": "headteacher, principal",
+        "score": 0
+    },
+    "Fach das": {
+        "t": "subject",
+        "score": 0
+    },
+    "Fremdsprache die": {
+        "t": "foreign language",
+        "score": 0
+    },
+    "gerecht": {
+        "t": "fair, just",
+        "score": 0
+    },
+    "klug": {
+        "t": "clever, intelligent",
+        "score": 0
+    },
+    "lehren": {
+        "t": "to teach",
+        "score": 0
+    },
+    "Schulfach das": {
+        "t": "school subject",
+        "score": 0
+    },
+    "Schulleiter der": {
+        "t": "headteacher, principal",
+        "score": 0
+    },
+    "Stunde die": {
+        "t": "lesson",
+        "score": 0
+    },
+    "ungerecht": {
+        "t": "unfair",
+        "score": 0
+    },
+    "Werken": {
+        "t": "DT",
+        "score": 0
+    },
+    "1 = sehr gut": {
+        "t": "very good",
+        "score": 0
+    },
+    "2 = gut": {
+        "t": "good",
+        "score": 0
+    },
+    "3 = befriedigend": {
+        "t": "satisfactory, fair",
+        "score": 0
+    },
+    "4 = ausreichend": {
+        "t": "sufficient, pass (just)",
+        "score": 0
+    },
+    "5 = mangelhaft": {
+        "t": "poor, unsatisfactory, fail",
+        "score": 0
+    },
+    "6 = ungenügend": {
+        "t": "extremely poor, inadequate",
+        "score": 0
+    },
+    "Abschlusszeugnis das": {
+        "t": "school leaving certificate",
+        "score": 0
+    },
+    "Anspitzer der": {
+        "t": "pencil sharpener",
+        "score": 0
+    },
+    "Antwort die": {
+        "t": "answer",
+        "score": 0
+    },
+    "antworten": {
+        "t": "to answer",
+        "score": 0
+    },
+    "anziehen (sich)": {
+        "t": "to get dressed",
+        "score": 0
+    },
+    "Anzug der": {
+        "t": "suit",
+        "score": 0
+    },
+    "aufpassen": {
+        "t": "to pay attention",
+        "score": 0
+    },
+    "aufstehen": {
+        "t": "to get up",
+        "score": 0
+    },
+    "aufwachen": {
+        "t": "to wake up",
+        "score": 0
+    },
+    "Aula die": {
+        "t": "(assembly) hall",
+        "score": 0
+    },
+    "Austausch der": {
+        "t": "exchange",
+        "score": 0
+    },
+    "Auswahl die": {
+        "t": "choice",
+        "score": 0
+    },
+    "ausziehen (sich)": {
+        "t": "to get undressed",
+        "score": 0
+    },
+    "bestehen": {
+        "t": "to pass (exam/test)",
+        "score": 0
+    },
+    "blau machen": {
+        "t": "to skip work, to play truant",
+        "score": 0
+    },
+    "Bluse die": {
+        "t": "blouse",
+        "score": 0
+    },
+    "dauern": {
+        "t": "to last",
+        "score": 0
+    },
+    "Erfolg der": {
+        "t": "success",
+        "score": 0
+    },
+    "erfolgreich": {
+        "t": "successful",
+        "score": 0
+    },
+    "erklären": {
+        "t": "to explain",
+        "score": 0
+    },
+    "erzählen": {
+        "t": "to tell, to narrate",
+        "score": 0
+    },
+    "faul": {
+        "t": "lazy",
+        "score": 0
+    },
+    "fehlen": {
+        "t": "to be missing, absent",
+        "score": 0
+    },
+    "Ferien (pl)": {
+        "t": "holidays",
+        "score": 0
+    },
+    "fleißig": {
+        "t": "hard working, industrious",
+        "score": 0
+    },
+    "Frage die": {
+        "t": "question",
+        "score": 0
+    },
+    "fragen": {
+        "t": "to ask",
+        "score": 0
+    },
+    "Ganztagsschule die": {
+        "t": "school that lasts all day",
+        "score": 0
+    },
+    "Gesamtschule die": {
+        "t": "comprehensive school",
+        "score": 0
+    },
+    "gründen": {
+        "t": "to found",
+        "score": 0
+    },
+    "Grundschule die": {
+        "t": "primary school",
+        "score": 0
+    },
+    "Gymnasium das": {
+        "t": "grammar school",
+        "score": 0
+    },
+    "Halle die": {
+        "t": "hall",
+        "score": 0
+    },
+    "Hauptschule die": {
+        "t": "secondary school",
+        "score": 0
+    },
+    "Hausmeister der": {
+        "t": "caretaker",
+        "score": 0
+    },
+    "Hemd das": {
+        "t": "shirt",
+        "score": 0
+    },
+    "Hose die": {
+        "t": "trousers",
+        "score": 0
+    },
+    "Internat das": {
+        "t": "boarding school",
+        "score": 0
+    },
+    "Klassenarbeit die": {
+        "t": "test",
+        "score": 0
+    },
+    "Klassenfahrt die": {
+        "t": "school trip",
+        "score": 0
+    },
+    "Kleid das": {
+        "t": "dress",
+        "score": 0
+    },
+    "korrigieren": {
+        "t": "to correct",
+        "score": 0
+    },
+    "Krawatte die": {
+        "t": "tie",
+        "score": 0
+    },
+    "Kreide die": {
+        "t": "chalk",
+        "score": 0
+    },
+    "Labor das": {
+        "t": "laboratory",
+        "score": 0
+    },
+    "Lehrerzimmer das": {
+        "t": "staff room",
+        "score": 0
+    },
+    "Lineal das": {
+        "t": "ruler",
+        "score": 0
+    },
+    "malen": {
+        "t": "to paint",
+        "score": 0
+    },
+    "Mittagspause die": {
+        "t": "lunch break",
+        "score": 0
+    },
+    "mündlich": {
+        "t": "orally",
+        "score": 0
+    },
+    "nachsitzen": {
+        "t": "to have a detention",
+        "score": 0
+    },
+    "Note die": {
+        "t": "grade, mark",
+        "score": 0
+    },
+    "Notendruck der": {
+        "t": "pressure to achieve good marks/grades",
+        "score": 0
+    },
+    "Pause die": {
+        "t": "break",
+        "score": 0
+    },
+    "plaudern": {
+        "t": "to chat, to talk",
+        "score": 0
+    },
+    "Prüfung die": {
+        "t": "exam",
+        "score": 0
+    },
+    "rasieren (sich)": {
+        "t": "to shave",
+        "score": 0
+    },
+    "Raum der": {
+        "t": "room",
+        "score": 0
+    },
+    "Realschule die": {
+        "t": "secondary school",
+        "score": 0
+    },
+    "rechnen": {
+        "t": "to calculate, to do sums",
+        "score": 0
+    },
+    "Regel die": {
+        "t": "rule",
+        "score": 0
+    },
+    "Rock der": {
+        "t": "skirt",
+        "score": 0
+    },
+    "schaffen": {
+        "t": "to manage, to cope; to create",
+        "score": 0
+    },
+    "Schal der": {
+        "t": "scarf",
+        "score": 0
+    },
+    "schminken (sich)": {
+        "t": "to put on make-up",
+        "score": 0
+    },
+    "schriftlich": {
+        "t": "written",
+        "score": 0
+    },
+    "Schüler der": {
+        "t": "student",
+        "score": 0
+    },
+    "Schulhof der": {
+        "t": "school yard, playground",
+        "score": 0
+    },
+    "schwatzen/schwätzen": {
+        "t": "to chatter",
+        "score": 0
+    },
+    "Seite die": {
+        "t": "page",
+        "score": 0
+    },
+    "Sekretariat das": {
+        "t": "office (school), reception",
+        "score": 0
+    },
+    "setzen (sich)": {
+        "t": "to sit down",
+        "score": 0
+    },
+    "sitzen bleiben": {
+        "t": "to repeat a school year",
+        "score": 0
+    },
+    "Sprachlabor das": {
+        "t": "language lab",
+        "score": 0
+    },
+    "Stundenplan der": {
+        "t": "timetable",
+        "score": 0
+    },
+    "Tafel die": {
+        "t": "black/white board",
+        "score": 0
+    },
+    "Turnhalle die": {
+        "t": "sports hall",
+        "score": 0
+    },
+    "üben": {
+        "t": "to practise",
+        "score": 0
+    },
+    "Übung die": {
+        "t": "exercise",
+        "score": 0
+    },
+    "Umkleideraum der": {
+        "t": "changing room",
+        "score": 0
+    },
+    "umziehen (sich)": {
+        "t": "to get changed, change clothes",
+        "score": 0
+    },
+    "Unterricht der": {
+        "t": "lessons; teaching",
+        "score": 0
+    },
+    "unterrichten": {
+        "t": "to teach",
+        "score": 0
+    },
+    "verlassen": {
+        "t": "to leave",
+        "score": 0
+    },
+    "Versammlung die": {
+        "t": "assembly",
+        "score": 0
+    },
+    "verstehen": {
+        "t": "to understand",
+        "score": 0
+    },
+    "versuchen": {
+        "t": "to try",
+        "score": 0
+    },
+    "wählen": {
+        "t": "to choose",
+        "score": 0
+    },
+    "waschen (sich)": {
+        "t": "to have a wash",
+        "score": 0
+    },
+    "wiederholen": {
+        "t": "to repeat",
+        "score": 0
+    },
+    "wissen": {
+        "t": "to know",
+        "score": 0
+    },
+    "Wörterbuch das": {
+        "t": "dictionary",
+        "score": 0
+    },
+    "Zahnbürste die": {
+        "t": "toothbrush",
+        "score": 0
+    },
+    "Zahnpasta die": {
+        "t": "toothpaste",
+        "score": 0
+    },
+    "zeichnen": {
+        "t": "to draw",
+        "score": 0
+    },
+    "Zeugnis das": {
+        "t": "school report",
+        "score": 0
+    },
+    "zuhören": {
+        "t": "to listen",
+        "score": 0
+    },
+    "(Azubi) = Auszubildende der": {
+        "t": "apprentice, trainee",
+        "score": 0
+    },
+    "Abitur das": {
+        "t": "A-level equivalent",
+        "score": 0
+    },
+    "Abiturient der": {
+        "t": "person doing the Abitur",
+        "score": 0
+    },
+    "arbeiten": {
+        "t": "to work",
+        "score": 0
+    },
+    "Arbeitspraktikum das": {
+        "t": "work experience",
+        "score": 0
+    },
+    "Ausbildung die": {
+        "t": "(job) training, education",
+        "score": 0
+    },
+    "Ausbildungsplatz der": {
+        "t": "vacancy/place for a trainee",
+        "score": 0
+    },
+    "Berufsberater der": {
+        "t": "careers adviser",
+        "score": 0
+    },
+    "Berufsschule die": {
+        "t": "vocational training school",
+        "score": 0
+    },
+    "bewerben (sich um)": {
+        "t": "to apply for",
+        "score": 0
+    },
+    "Bewerbung die": {
+        "t": "application",
+        "score": 0
+    },
+    "Brief der": {
+        "t": "letter",
+        "score": 0
+    },
+    "Chef der": {
+        "t": "boss",
+        "score": 0
+    },
+    "entscheiden (sich)": {
+        "t": "to decide",
+        "score": 0
+    },
+    "Erfahrung die": {
+        "t": "experience",
+        "score": 0
+    },
+    "fertig": {
+        "t": "ready, done",
+        "score": 0
+    },
+    "Führerschein der": {
+        "t": "driving licence",
+        "score": 0
+    },
+    "Gelegenheit die": {
+        "t": "opportunity",
+        "score": 0
+    },
+    "Kollege der": {
+        "t": "colleague",
+        "score": 0
+    },
+    "Kurs der": {
+        "t": "course",
+        "score": 0
+    },
+    "Lebenslauf der": {
+        "t": "curriculum vitae (CV)",
+        "score": 0
+    },
+    "Lehre die": {
+        "t": "apprenticeship",
+        "score": 0
+    },
+    "Lohn der": {
+        "t": "wage",
+        "score": 0
+    },
+    "Mindestlohn der": {
+        "t": "minimum wage",
+        "score": 0
+    },
+    "Nebenjob der": {
+        "t": "part-time job",
+        "score": 0
+    },
+    "Oberstufe die": {
+        "t": "equivalent to sixth-form",
+        "score": 0
+    },
+    "Rat der": {
+        "t": "advice",
+        "score": 0
+    },
+    "Semester das": {
+        "t": "term",
+        "score": 0
+    },
+    "Studienplatz der": {
+        "t": "university place",
+        "score": 0
+    },
+    "Studium das": {
+        "t": "studies",
+        "score": 0
+    },
+    "theoretisch": {
+        "t": "theoretical",
+        "score": 0
+    },
+    "verdienen": {
+        "t": "to earn",
+        "score": 1
+    },
+    "Angestellte der/die": {
+        "t": "employee",
+        "score": 0
+    },
+    "Apotheker der": {
+        "t": "pharmacist",
+        "score": 0
+    },
+    "Arbeitszeit die": {
+        "t": "work hours",
+        "score": 0
+    },
+    "Bäcker der": {
+        "t": "baker",
+        "score": 0
+    },
+    "Bauarbeiter der": {
+        "t": "building/construction worker",
+        "score": 0
+    },
+    "bauen": {
+        "t": "to build",
+        "score": 0
+    },
+    "Bauer der": {
+        "t": "farmer",
+        "score": 0
+    },
+    "Beamte der/die": {
+        "t": "civil servant",
+        "score": 0
+    },
+    "Beruf der": {
+        "t": "job, occupation",
+        "score": 0
+    },
+    "berufstätig (sein)": {
+        "t": "(to be) in work",
+        "score": 0
+    },
+    "beschäftigt (sein)": {
+        "t": "(to be) busy, employed",
+        "score": 0
+    },
+    "beschließen": {
+        "t": "to decide",
+        "score": 0
+    },
+    "besitzen": {
+        "t": "to own",
+        "score": 0
+    },
+    "Besitzer der": {
+        "t": "owner",
+        "score": 0
+    },
+    "Bezahlung die": {
+        "t": "payment",
+        "score": 0
+    },
+    "Briefträger der": {
+        "t": "postman",
+        "score": 0
+    },
+    "Büro das": {
+        "t": "office",
+        "score": 0
+    },
+    "erfüllen": {
+        "t": "to fulfil",
+        "score": 0
+    },
+    "Feuerwehrmann der": {
+        "t": "fire fighter",
+        "score": 0
+    },
+    "Fleischer der": {
+        "t": "butcher",
+        "score": 0
+    },
+    "Friseur der": {
+        "t": "hairdresser",
+        "score": 0
+    },
+    "ganztags": {
+        "t": "all day",
+        "score": 0
+    },
+    "Gärtner der": {
+        "t": "gardener",
+        "score": 0
+    },
+    "Gehalt das": {
+        "t": "salary",
+        "score": 0
+    },
+    "Halbtagsarbeit die": {
+        "t": "part time employment",
+        "score": 0
+    },
+    "Hausfrau die": {
+        "t": "house wife",
+        "score": 0
+    },
+    "im Freien": {
+        "t": "outside, in the open air",
+        "score": 0
+    },
+    "Karriere die": {
+        "t": "career",
+        "score": 0
+    },
+    "Kassierer der": {
+        "t": "cashier, bank clerk",
+        "score": 0
+    },
+    "Klempner der": {
+        "t": "plumber",
+        "score": 0
+    },
+    "Koch der": {
+        "t": "chef, cook",
+        "score": 0
+    },
+    "Krankenschwester die": {
+        "t": "nurse",
+        "score": 0
+    },
+    "LKW-Fahrer der": {
+        "t": "lorry driver",
+        "score": 0
+    },
+    "Maler der": {
+        "t": "painter, decorator",
+        "score": 1
+    },
+    "Metzger der": {
+        "t": "butcher",
+        "score": 0
+    },
+    "Pfarrer der": {
+        "t": "parish priest, vicar",
+        "score": 0
+    },
+    "Polizei die": {
+        "t": "police",
+        "score": 0
+    },
+    "Polizist der": {
+        "t": "policeman",
+        "score": 0
+    },
+    "Postbote der": {
+        "t": "postman",
+        "score": 0
+    },
+    "Rentner der": {
+        "t": "pensioner",
+        "score": 0
+    },
+    "Schauspieler der": {
+        "t": "actor",
+        "score": 0
+    },
+    "Schichtarbeit die": {
+        "t": "shift work",
+        "score": 0
+    },
+    "suchen": {
+        "t": "to look for, to search",
+        "score": 0
+    },
+    "Teilzeitjob der": {
+        "t": "part time job",
+        "score": 0
+    },
+    "Termin der": {
+        "t": "date, appointment",
+        "score": 0
+    },
+    "Tischler der": {
+        "t": "carpenter",
+        "score": 0
+    },
+    "Verkäufer der": {
+        "t": "shop assistant",
+        "score": 0
+    },
+    "Vollzeitarbeit die": {
+        "t": "full time work",
+        "score": 0
+    },
+    "Vorstellungsgespräch das": {
+        "t": "job interview",
+        "score": 0
+    },
+    "Werkstatt die": {
+        "t": "garage",
+        "score": 0
+    },
+    "Wunsch der": {
+        "t": "wish",
+        "score": 0
+    },
+    "Alleinerziehende der/die": {
+        "t": "single parent",
+        "score": 0
+    },
+    "alleinstehend": {
+        "t": "single",
+        "score": 0
+    },
+    "Angeber der": {
+        "t": "show off, poser",
+        "score": 0
+    },
+    "aufpassen (auf)": {
+        "t": "to look after",
+        "score": 0
+    },
+    "ausgeglichen": {
+        "t": "balanced",
+        "score": 0
+    },
+    "Bekannte der/die": {
+        "t": "acquaintance, friend",
+        "score": 0
+    },
+    "Beziehung die": {
+        "t": "relationship",
+        "score": 0
+    },
+    "Braut die": {
+        "t": "bride",
+        "score": 0
+    },
+    "Bräutigam der": {
+        "t": "groom",
+        "score": 0
+    },
+    "Ehe die": {
+        "t": "marriage",
+        "score": 0
+    },
+    "eifersüchtig": {
+        "t": "jealous",
+        "score": 0
+    },
+    "einen (guten) Sinn für Humor haben": {
+        "t": "to have a (good) sense of humour",
+        "score": 0
+    },
+    "eingebildet": {
+        "t": "conceited",
+        "score": 0
+    },
+    "Enkel der": {
+        "t": "grandson",
+        "score": 0
+    },
+    "Enkelin die": {
+        "t": "granddaughter",
+        "score": 0
+    },
+    "gleichgeschlechtliche Ehe/Partnerschaft die": {
+        "t": "same-sex marriage/partnership",
+        "score": 0
+    },
+    "großzügig": {
+        "t": "generous",
+        "score": 0
+    },
+    "Junggeselle der": {
+        "t": "bachelor",
+        "score": 0
+    },
+    "lebhaft": {
+        "t": "lively",
+        "score": 0
+    },
+    "leiden": {
+        "t": "to suffer",
+        "score": 0
+    },
+    "minderjährig": {
+        "t": "(to be a) minor, under legal age",
+        "score": 0
+    },
+    "miteinander": {
+        "t": "with one another, together",
+        "score": 0
+    },
+    "Neffe der": {
+        "t": "nephew",
+        "score": 0
+    },
+    "Nichte die": {
+        "t": "niece",
+        "score": 0
+    },
+    "Schulter die": {
+        "t": "shoulder",
+        "score": 0
+    },
+    "Schwager der": {
+        "t": "brother-in-law",
+        "score": 0
+    },
+    "Schwägerin die": {
+        "t": "sister-in-law",
+        "score": 0
+    },
+    "Schwieger~": {
+        "t": "~ in-law",
+        "score": 0
+    },
+    "selbstbewusst": {
+        "t": "self-confident, self-assured",
+        "score": 0
+    },
+    "Trauung die": {
+        "t": "wedding (ceremony)",
+        "score": 0
+    },
+    "treu": {
+        "t": "faithful, loyal",
+        "score": 0
+    },
+    "Verlobte der/die": {
+        "t": "fiancé(e)",
+        "score": 0
+    },
+    "verrückt": {
+        "t": "crazy",
+        "score": 0
+    },
+    "Verwandte der/die": {
+        "t": "relative",
+        "score": 0
+    },
+    "Verwandtschaft die": {
+        "t": "relations (pl); relatives (pl)",
+        "score": 0
+    },
+    "verzeihen": {
+        "t": "to forgive",
+        "score": 0
+    },
+    "volljährig": {
+        "t": "(to be) of age",
+        "score": 0
+    },
+    "Vorwahl(nummer) die": {
+        "t": "long distance code (telephone)",
+        "score": 0
+    },
+    "zurechtkommen mit": {
+        "t": "to cope with",
+        "score": 0
+    },
+    "zuverlässig": {
+        "t": "reliable",
+        "score": 0
+    },
+    "zweifeln": {
+        "t": "to doubt",
+        "score": 0
+    },
+    "Anwendungen (pl)": {
+        "t": "applications",
+        "score": 0
+    },
+    "Betriebssystem das": {
+        "t": "operating system",
+        "score": 0
+    },
+    "Einstellungen (pl)": {
+        "t": "settings",
+        "score": 0
+    },
+    "leistungsstark": {
+        "t": "powerful (battery, processor)",
+        "score": 0
+    },
+    "Sicherheit die": {
+        "t": "safety",
+        "score": 0
+    },
+    "aufnehmen": {
+        "t": "to record",
+        "score": 0
+    },
+    "aufregend": {
+        "t": "exciting",
+        "score": 0
+    },
+    "Bergsteigen das": {
+        "t": "mountain climbing",
+        "score": 0
+    },
+    "Dirigent der": {
+        "t": "conductor",
+        "score": 0
+    },
+    "Ente die": {
+        "t": "duck",
+        "score": 0
+    },
+    "ermüdend": {
+        "t": "tiring",
+        "score": 0
+    },
+    "Flachbildschirm der": {
+        "t": "flat screen TV",
+        "score": 0
+    },
+    "Flimmerkiste die": {
+        "t": "TV, box, telly",
+        "score": 0
+    },
+    "Forelle die": {
+        "t": "trout",
+        "score": 0
+    },
+    "Gans die": {
+        "t": "goose",
+        "score": 0
+    },
+    "Geige die": {
+        "t": "violin",
+        "score": 0
+    },
+    "geräuchert": {
+        "t": "smoked",
+        "score": 0
+    },
+    "Halbfettmilch die": {
+        "t": "semi-skimmed milk",
+        "score": 0
+    },
+    "hausgemacht": {
+        "t": "home made",
+        "score": 0
+    },
+    "Honig der": {
+        "t": "honey",
+        "score": 0
+    },
+    "Kalbfleisch das": {
+        "t": "veal",
+        "score": 0
+    },
+    "Knoblauch der": {
+        "t": "garlic",
+        "score": 0
+    },
+    "Lachs der": {
+        "t": "salmon",
+        "score": 0
+    },
+    "Lamm(fleisch) das": {
+        "t": "lamb",
+        "score": 0
+    },
+    "Leichtathletik die": {
+        "t": "athletics",
+        "score": 0
+    },
+    "Magermilch die": {
+        "t": "skimmed milk",
+        "score": 0
+    },
+    "Mehl das": {
+        "t": "flour",
+        "score": 0
+    },
+    "Querflöte die": {
+        "t": "flute",
+        "score": 0
+    },
+    "Rennen das": {
+        "t": "race",
+        "score": 0
+    },
+    "Rindfleisch das": {
+        "t": "beef",
+        "score": 0
+    },
+    "Rührei das": {
+        "t": "scrambled egg(s)",
+        "score": 0
+    },
+    "Schlagzeug das": {
+        "t": "percussion, drums",
+        "score": 0
+    },
+    "Schlittschuh laufen": {
+        "t": "ice skating",
+        "score": 0
+    },
+    "schmackhaft": {
+        "t": "Tasty",
+        "score": 0
+    },
+    "Schweinefleisch das": {
+        "t": "pork",
+        "score": 0
+    },
+    "Spiegelei das": {
+        "t": "fried egg",
+        "score": 0
+    },
+    "Sprudel(wasser) der (das)": {
+        "t": "fizzy mineral water",
+        "score": 0
+    },
+    "Truthahn der": {
+        "t": "turkey",
+        "score": 0
+    },
+    "Überraschung die": {
+        "t": "surprise",
+        "score": 0
+    },
+    "Untertitel der": {
+        "t": "subtitle",
+        "score": 0
+    },
+    "Verein der": {
+        "t": "club",
+        "score": 0
+    },
+    "Vergnügen das": {
+        "t": "fun, enjoyment",
+        "score": 0
+    },
+    "Vollmilch die": {
+        "t": "full fat milk",
+        "score": 0
+    },
+    "würzig": {
+        "t": "spicy",
+        "score": 0
+    },
+    "Aprilscherz der": {
+        "t": "April fool's trick",
+        "score": 0
+    },
+    "Gastfreundschaft die": {
+        "t": "hospitality",
+        "score": 0
+    },
+    "Tag der Arbeit (1 Mai)": {
+        "t": "May Day",
+        "score": 0
+    },
+    "Abstellraum der": {
+        "t": "storeroom",
+        "score": 0
+    },
+    "ausschalten": {
+        "t": "to switch off",
+        "score": 0
+    },
+    "Besteck das": {
+        "t": "cutlery",
+        "score": 0
+    },
+    "Brunnen der": {
+        "t": "well",
+        "score": 0
+    },
+    "Einbahnstraße die": {
+        "t": "one way street",
+        "score": 0
+    },
+    "einschalten": {
+        "t": "to switch on",
+        "score": 0
+    },
+    "Essecke die": {
+        "t": "eating area (eg in the kitchen)",
+        "score": 0
+    },
+    "Fahrschein der": {
+        "t": "ticket (public transport)",
+        "score": 0
+    },
+    "Gerät das": {
+        "t": "appliance",
+        "score": 0
+    },
+    "geräumig": {
+        "t": "roomy, spacious",
+        "score": 0
+    },
+    "Geschirr das": {
+        "t": "crockery",
+        "score": 0
+    },
+    "gratis": {
+        "t": "free of charge",
+        "score": 0
+    },
+    "Grünanlage die": {
+        "t": "green area, park",
+        "score": 0
+    },
+    "Mehrfamilienhaus das": {
+        "t": "house for several families (three to six storeys)",
+        "score": 0
+    },
+    "Möbelstück das": {
+        "t": "piece of furniture",
+        "score": 0
+    },
+    "~möglichkeiten": {
+        "t": "~ possibilities",
+        "score": 0
+    },
+    "öffentliche Verkehrsmittel (pl)": {
+        "t": "public transport",
+        "score": 0
+    },
+    "pleite (sein)": {
+        "t": "to be skint",
+        "score": 0
+    },
+    "preiswert": {
+        "t": "good value for money, cheap",
+        "score": 0
+    },
+    "Rabatt der": {
+        "t": "discount",
+        "score": 0
+    },
+    "Sackgasse die": {
+        "t": "cul-de-sac",
+        "score": 0
+    },
+    "Sparkasse die": {
+        "t": "(savings) bank",
+        "score": 0
+    },
+    "Stadtteil der": {
+        "t": "part of the town",
+        "score": 0
+    },
+    "Stadtviertel das": {
+        "t": "district, part of the town",
+        "score": 0
+    },
+    "Stockwerk das": {
+        "t": "floor, storey",
+        "score": 0
+    },
+    "Strom der": {
+        "t": "electricity",
+        "score": 0
+    },
+    "Tiefkühltruhe die": {
+        "t": "chest freezer",
+        "score": 0
+    },
+    "Treppenhaus das": {
+        "t": "staircase",
+        "score": 0
+    },
+    "umsonst": {
+        "t": "free of charge; in vain",
+        "score": 0
+    },
+    "Umzug der": {
+        "t": "move, moving (house)",
+        "score": 0
+    },
+    "Wolkenkratzer der": {
+        "t": "sky-scraper",
+        "score": 0
+    },
+    "abstinent": {
+        "t": "teetotal",
+        "score": 0
+    },
+    "Atem der": {
+        "t": "breath",
+        "score": 0
+    },
+    "Atembeschwerden (pl)": {
+        "t": "breathing difficulties",
+        "score": 0
+    },
+    "Bedürftige der/die": {
+        "t": "somebody in need",
+        "score": 0
+    },
+    "begehen": {
+        "t": "to commit, to perpetrate",
+        "score": 0
+    },
+    "benachteiligen": {
+        "t": "to disadvantage",
+        "score": 0
+    },
+    "bewegen (sich)": {
+        "t": "to move; to get/take some exercise",
+        "score": 0
+    },
+    "Drogenberatungsstelle die": {
+        "t": "advice centre for drug addicts",
+        "score": 0
+    },
+    "ehrenamtlich": {
+        "t": "honorary, voluntarily",
+        "score": 0
+    },
+    "ein Mittel gegen ...": {
+        "t": "something, a medicine for ...",
+        "score": 0
+    },
+    "einatmen": {
+        "t": "to breathe in",
+        "score": 0
+    },
+    "Eingliederung die": {
+        "t": "integration",
+        "score": 0
+    },
+    "einnehmen": {
+        "t": "to take (in)",
+        "score": 0
+    },
+    "Entziehungskur die": {
+        "t": "rehab for drug addiction/alcoholism",
+        "score": 0
+    },
+    "erbrechen (sich)": {
+        "t": "to be sick",
+        "score": 0
+    },
+    "fettarm": {
+        "t": "low in fat",
+        "score": 0
+    },
+    "Gehirn das": {
+        "t": "brain",
+        "score": 0
+    },
+    "lebendig": {
+        "t": "alive",
+        "score": 0
+    },
+    "magersüchtig": {
+        "t": "anorexic",
+        "score": 0
+    },
+    "Mindesthaltbarkeitsdatum das": {
+        "t": "best before date",
+        "score": 0
+    },
+    "Nahrung die": {
+        "t": "food, nourishment",
+        "score": 0
+    },
+    "Rassenvorurteile (pl)": {
+        "t": "racial prejudice",
+        "score": 0
+    },
+    "Rassist der": {
+        "t": "racist",
+        "score": 0
+    },
+    "Raucherhusten der": {
+        "t": "smoker's cough",
+        "score": 1
+    },
+    "Rauschgift das": {
+        "t": "drug, narcotic",
+        "score": 0
+    },
+    "schaden": {
+        "t": "to damage, to harm",
+        "score": 0
+    },
+    "Straftat die": {
+        "t": "criminal offence, act",
+        "score": 0
+    },
+    "Süßigkeiten (pl)": {
+        "t": "sweets",
+        "score": 0
+    },
+    "Überdosis die": {
+        "t": "overdose",
+        "score": 0
+    },
+    "übergewichtig": {
+        "t": "overweight",
+        "score": 0
+    },
+    "vermeiden": {
+        "t": "to avoid",
+        "score": 0
+    },
+    "Abholzung die": {
+        "t": "deforestation",
+        "score": 0
+    },
+    "Auspuffgase (pl)": {
+        "t": "exhaust fumes",
+        "score": 0
+    },
+    "bedürftig": {
+        "t": "needy",
+        "score": 0
+    },
+    "Düngemittel das": {
+        "t": "fertiliser",
+        "score": 0
+    },
+    "Einwegflasche die": {
+        "t": "non-recyclable bottle",
+        "score": 0
+    },
+    "Gleichheit die": {
+        "t": "equality",
+        "score": 0
+    },
+    "Hauptverkehrszeit die": {
+        "t": "rush hour",
+        "score": 0
+    },
+    "menschlich": {
+        "t": "human, humane",
+        "score": 0
+    },
+    "Müllentsorgung die": {
+        "t": "waste disposal",
+        "score": 0
+    },
+    "Not die": {
+        "t": "need",
+        "score": 0
+    },
+    "Obdachlosenheim das": {
+        "t": "hostel for homeless people",
+        "score": 0
+    },
+    "Rote Kreuz das": {
+        "t": "Red Cross",
+        "score": 0
+    },
+    "überschreiten": {
+        "t": "to exceed",
+        "score": 0
+    },
+    "verpesten": {
+        "t": "to pollute",
+        "score": 0
+    },
+    "verschwenden": {
+        "t": "to waste",
+        "score": 0
+    },
+    "verwenden": {
+        "t": "to use",
+        "score": 0
+    },
+    "wiederverwerten": {
+        "t": "to recycle",
+        "score": 0
+    },
+    "Wiederverwertung die": {
+        "t": "recycling",
+        "score": 0
+    },
+    "Andenken das": {
+        "t": "souvenir, memento",
+        "score": 0
+    },
+    "ansehen (sich etwas)": {
+        "t": "to have a look at something",
+        "score": 0
+    },
+    "Ärmelkanal der": {
+        "t": "(English) Channel",
+        "score": 0
+    },
+    "Aufenthalt der": {
+        "t": "stay",
+        "score": 0
+    },
+    "Auskunft die": {
+        "t": "information",
+        "score": 0
+    },
+    "Autovermietung die": {
+        "t": "car rental (firm)",
+        "score": 0
+    },
+    "beeilen (sich)": {
+        "t": "to hurry",
+        "score": 0
+    },
+    "begleiten": {
+        "t": "to accompany",
+        "score": 0
+    },
+    "bestätigen": {
+        "t": "to confirm",
+        "score": 0
+    },
+    "Bodensee der": {
+        "t": "Lake Constance",
+        "score": 0
+    },
+    "Dampfer der": {
+        "t": "steam boat",
+        "score": 0
+    },
+    "Empfang der": {
+        "t": "welcoming, reception (hotel)",
+        "score": 0
+    },
+    "entdecken": {
+        "t": "to discover",
+        "score": 0
+    },
+    "erinnern (sich)": {
+        "t": "to remember",
+        "score": 0
+    },
+    "Fahrradverleih der": {
+        "t": "bicycle hire",
+        "score": 0
+    },
+    "Genf": {
+        "t": "Geneva",
+        "score": 0
+    },
+    "Gepäckaufbewahrung die": {
+        "t": "place where one can leave luggage for payment (station, airport)",
+        "score": 0
+    },
+    "Klimaanlage die": {
+        "t": "air conditioning",
+        "score": 0
+    },
+    "Prospekt der": {
+        "t": "brochure, leaflet",
+        "score": 0
+    },
+    "Strandkorb der": {
+        "t": "wicker beach chair",
+        "score": 0
+    },
+    "Verbindung die": {
+        "t": "connection",
+        "score": 0
+    },
+    "Verkehrsamt das": {
+        "t": "tourist information office",
+        "score": 0
+    },
+    "wegen Betriebsferien (pl) geschlossen": {
+        "t": "(firm/shop/attraction) closed because of holiday",
+        "score": 0
+    },
+    "Zoll der": {
+        "t": "customs",
+        "score": 0
+    },
+    "Zuschlag der": {
+        "t": "extra charge, surcharge",
+        "score": 0
+    },
+    "Fremdsprachenassistent der": {
+        "t": "language assistant",
+        "score": 0
+    },
+    "abschreiben": {
+        "t": "to copy",
+        "score": 0
+    },
+    "abwesend": {
+        "t": "absent",
+        "score": 0
+    },
+    "anwesend": {
+        "t": "present",
+        "score": 0
+    },
+    "Aussprache die": {
+        "t": "pronunciation",
+        "score": 0
+    },
+    "beantworten": {
+        "t": "to answer",
+        "score": 0
+    },
+    "durchfallen": {
+        "t": "to fail (exam/test)",
+        "score": 0
+    },
+    "eine Frage stellen": {
+        "t": "to ask a question",
+        "score": 0
+    },
+    "Ergebnis das": {
+        "t": "result, outcome",
+        "score": 0
+    },
+    "Gang der": {
+        "t": "corridor",
+        "score": 0
+    },
+    "Leistung die": {
+        "t": "achievement",
+        "score": 0
+    },
+    "Leistungsdruck der": {
+        "t": "pressure to achieve",
+        "score": 0
+    },
+    "Patrone die": {
+        "t": "cartridge",
+        "score": 0
+    },
+    "Schere die": {
+        "t": "scissors",
+        "score": 0
+    },
+    "schwänzen": {
+        "t": "to play truant",
+        "score": 0
+    },
+    "Strafarbeit die": {
+        "t": "punishment, lines",
+        "score": 0
+    },
+    "versetzt werden": {
+        "t": "to be moved up to the next year group",
+        "score": 0
+    },
+    "einstellen": {
+        "t": "to employ",
+        "score": 0
+    },
+    "Fachschule die": {
+        "t": "technical college",
+        "score": 0
+    },
+    "Hauswirtschaftslehre die": {
+        "t": "home economics",
+        "score": 0
+    },
+    "Pflichtfach das": {
+        "t": "compulsory subject",
+        "score": 0
+    },
+    "Sozialkunde die": {
+        "t": "social studies, politics",
+        "score": 0
+    },
+    "Wahlfach das": {
+        "t": "optional subject",
+        "score": 0
+    },
+    "Wirtschaftslehre die": {
+        "t": "business studies, economics",
+        "score": 0
+    },
+    "Arbeitgeber der": {
+        "t": "Employer",
+        "score": 0
+    },
+    "Besprechung die": {
+        "t": "meeting, discussion",
+        "score": 0
+    },
+    "Betrieb der": {
+        "t": "business, concern, works",
+        "score": 0
+    },
+    "kündigen": {
+        "t": "to hand in one's notice; to sack someone",
+        "score": 1
+    },
+    "vereinbaren": {
+        "t": "to agree, to arrange",
+        "score": 0
+    }
+}
